@@ -1,0 +1,7736 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+ 
+			
+        
+
+
+<html class="ltr" dir="ltr" lang="es-ES">
+
+<head>
+	<title>Home - Migraciones - Ministerio de Inclusión, Seguridad Social y Migraciones</title>
+
+<!-- Google Tag Manager -->
+	<script type="text/plain" data-category="analytics">
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0]
+		,j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5V3S7WP');
+	</script>
+<!-- End Google Tag Manager -->
+
+	
+
+
+	<meta content="initial-scale=1.0, width=device-width" name="viewport" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+
+
+
+
+
+
+
+
+<meta content="Bienvenidos a la home de Migraciones, que desarrolla la política migratoria definida por el Gobierno en materia de inmigración, integración de los inmigrantes y ciudadanía española en el exterior." lang="es-ES" name="description" />
+
+
+<script type="importmap">{"imports":{"react-dom":"/o/frontend-js-react-web/__liferay__/exports/react-dom.js","@clayui/breadcrumb":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$breadcrumb.js","@clayui/form":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$form.js","@clayui/popover":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$popover.js","@clayui/charts":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$charts.js","@clayui/shared":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$shared.js","@clayui/localized-input":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$localized-input.js","@clayui/modal":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$modal.js","@clayui/empty-state":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$empty-state.js","react":"/o/frontend-js-react-web/__liferay__/exports/react.js","@clayui/navigation-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$navigation-bar.js","@clayui/color-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$color-picker.js","@clayui/pagination":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$pagination.js","@clayui/icon":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$icon.js","@clayui/table":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$table.js","@clayui/autocomplete":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$autocomplete.js","@clayui/slider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$slider.js","@clayui/management-toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$management-toolbar.js","@clayui/multi-select":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$multi-select.js","@clayui/nav":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$nav.js","@clayui/time-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$time-picker.js","@clayui/provider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$provider.js","@clayui/upper-toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$upper-toolbar.js","@clayui/panel":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$panel.js","@clayui/loading-indicator":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$loading-indicator.js","@clayui/list":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$list.js","@clayui/drop-down":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$drop-down.js","@clayui/date-picker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$date-picker.js","@clayui/label":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$label.js","@clayui/data-provider":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$data-provider.js","@liferay/frontend-js-api/data-set":"/o/frontend-js-dependencies-web/__liferay__/exports/@liferay$js-api$data-set.js","@clayui/core":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$core.js","@clayui/pagination-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$pagination-bar.js","@clayui/layout":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$layout.js","@clayui/multi-step-nav":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$multi-step-nav.js","@liferay/frontend-js-api":"/o/frontend-js-dependencies-web/__liferay__/exports/@liferay$js-api.js","@clayui/toolbar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$toolbar.js","@clayui/css":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$css.js","@clayui/badge":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$badge.js","@clayui/alert":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$alert.js","@clayui/link":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$link.js","@clayui/card":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$card.js","@clayui/progress-bar":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$progress-bar.js","@clayui/tooltip":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$tooltip.js","@clayui/button":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$button.js","@clayui/tabs":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$tabs.js","@clayui/sticker":"/o/frontend-taglib-clay/__liferay__/exports/@clayui$sticker.js"},"scopes":{}}</script><script data-senna-track="temporary">var Liferay = window.Liferay || {};Liferay.Icons = Liferay.Icons || {};Liferay.Icons.controlPanelSpritemap = 'https://www.inclusion.gob.es/o/admin-theme/images/clay/icons.svg';Liferay.Icons.spritemap = 'https://www.inclusion.gob.es/o/missmi-theme/images/clay/icons.svg';</script>
+<script data-senna-track="permanent" src="/combo?browserId=other&minifierType=js&languageId=es_ES&t=1748956707669&/o/frontend-js-jquery-web/jquery/jquery.min.js&/o/frontend-js-jquery-web/jquery/init.js&/o/frontend-js-jquery-web/jquery/ajax.js&/o/frontend-js-jquery-web/jquery/bootstrap.bundle.min.js&/o/frontend-js-jquery-web/jquery/collapsible_search.js&/o/frontend-js-jquery-web/jquery/fm.js&/o/frontend-js-jquery-web/jquery/form.js&/o/frontend-js-jquery-web/jquery/popper.min.js&/o/frontend-js-jquery-web/jquery/side_navigation.js" type="text/javascript"></script>
+<link data-senna-track="temporary" href="https://www.inclusion.gob.es/web/migraciones/home" rel="canonical" />
+<link data-senna-track="temporary" href="https://www.inclusion.gob.es/web/migraciones/home" hreflang="es-ES" rel="alternate" />
+<link data-senna-track="temporary" href="https://www.inclusion.gob.es/gl/web/migraciones/home" hreflang="gl-ES" rel="alternate" />
+<link data-senna-track="temporary" href="https://www.inclusion.gob.es/ca/web/migraciones/home" hreflang="ca-ES" rel="alternate" />
+<link data-senna-track="temporary" href="https://www.inclusion.gob.es/eu/web/migraciones/home" hreflang="eu-ES" rel="alternate" />
+<link data-senna-track="temporary" href="https://www.inclusion.gob.es/fr/web/migraciones/home" hreflang="fr-FR" rel="alternate" />
+<link data-senna-track="temporary" href="https://www.inclusion.gob.es/en/web/migraciones/home" hreflang="en-US" rel="alternate" />
+<link data-senna-track="temporary" href="https://www.inclusion.gob.es/web/migraciones/home" hreflang="x-default" rel="alternate" />
+<meta property="og:description" content="Bienvenidos a la home de Migraciones, que desarrolla la política migratoria definida por el Gobierno en materia de inmigración, integración de los inmigrantes y ciudadanía española en el exterior.">
+<meta property="og:locale" content="es_ES">
+<meta property="og:locale:alternate" content="es_ES">
+<meta property="og:locale:alternate" content="ca_ES">
+<meta property="og:locale:alternate" content="eu_ES">
+<meta property="og:locale:alternate" content="gl_ES">
+<meta property="og:locale:alternate" content="en_US">
+<meta property="og:locale:alternate" content="fr_FR">
+<meta property="og:site_name" content="Migraciones">
+<meta property="og:title" content="Home - Migraciones - Ministerio de Inclusión, Seguridad Social y Migraciones">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.inclusion.gob.es/web/migraciones/home">
+
+
+<link href="https://www.inclusion.gob.es/o/missmi-theme/images/favicon.ico" rel="apple-touch-icon" />
+<link href="https://www.inclusion.gob.es/o/missmi-theme/images/favicon.ico" rel="icon" />
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://www.inclusion.gob.es/o/missmi-theme/css/clay.css?browserId=other&amp;themeId=missmitheme_WAR_missmitheme&amp;minifierType=css&amp;languageId=es_ES&amp;t=1748956696000" id="liferayAUICSS" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+	<link href="/combo?browserId=other&amp;minifierType=css&amp;themeId=missmitheme_WAR_missmitheme&amp;languageId=es_ES&amp;com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_oxre:%2Fo%2Fasset-publisher-web%2Fcss%2Fmain.css&amp;com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_sxou:%2Fo%2Fjournal-content-web%2Fcss%2Fmain.css&amp;com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop:%2Fo%2Fportal-search-web%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fo%2Fproduct-navigation-product-menu-web%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_user_personal_bar_web_portlet_ProductNavigationUserPersonalBarPortlet:%2Fo%2Fcom.liferay.product.navigation.user.personal.bar.web%2Fcss%2Fmain.css&amp;com_liferay_segments_experiment_web_internal_portlet_SegmentsExperimentPortlet:%2Fo%2Fsegments-experiment-web%2Fcss%2Fmain.css&amp;com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet:%2Fo%2Fsite-navigation-menu-web%2Fcss%2Fmain.css&amp;t=1748956696000" rel="stylesheet" type="text/css"
+ data-senna-track="temporary" id="b2c0755d" />
+
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		var Liferay = Liferay || {};
+
+		Liferay.Browser = {
+			acceptsGzip: function() {
+				return true;
+			},
+
+			
+
+			getMajorVersion: function() {
+				return 0;
+			},
+
+			getRevision: function() {
+				return '';
+			},
+			getVersion: function() {
+				return '';
+			},
+
+			
+
+			isAir: function() {
+				return false;
+			},
+			isChrome: function() {
+				return false;
+			},
+			isEdge: function() {
+				return false;
+			},
+			isFirefox: function() {
+				return false;
+			},
+			isGecko: function() {
+				return false;
+			},
+			isIe: function() {
+				return false;
+			},
+			isIphone: function() {
+				return false;
+			},
+			isLinux: function() {
+				return false;
+			},
+			isMac: function() {
+				return false;
+			},
+			isMobile: function() {
+				return false;
+			},
+			isMozilla: function() {
+				return false;
+			},
+			isOpera: function() {
+				return false;
+			},
+			isRtf: function() {
+				return false;
+			},
+			isSafari: function() {
+				return false;
+			},
+			isSun: function() {
+				return false;
+			},
+			isWebKit: function() {
+				return false;
+			},
+			isWindows: function() {
+				return false;
+			}
+		};
+
+		Liferay.Data = Liferay.Data || {};
+
+		Liferay.Data.ICONS_INLINE_SVG = true;
+
+		Liferay.Data.NAV_SELECTOR = '#navigation';
+
+		Liferay.Data.NAV_SELECTOR_MOBILE = '#navigationCollapse';
+
+		Liferay.Data.isCustomizationView = function() {
+			return false;
+		};
+
+		Liferay.Data.notices = [
+			
+		];
+
+		(function () {
+			var available = {};
+
+			var direction = {};
+
+			
+
+				available['es_ES'] = 'español\x20\x28España\x29';
+				direction['es_ES'] = 'ltr';
+
+			
+
+				available['ca_ES'] = 'catalán\x20\x28España\x29';
+				direction['ca_ES'] = 'ltr';
+
+			
+
+				available['eu_ES'] = 'euskera\x20\x28España\x29';
+				direction['eu_ES'] = 'ltr';
+
+			
+
+				available['gl_ES'] = 'gallego\x20\x28España\x29';
+				direction['gl_ES'] = 'ltr';
+
+			
+
+				available['en_US'] = 'inglés\x20\x28Estados\x20Unidos\x29';
+				direction['en_US'] = 'ltr';
+
+			
+
+				available['fr_FR'] = 'francés\x20\x28Francia\x29';
+				direction['fr_FR'] = 'ltr';
+
+			
+
+				available['uk_UA'] = 'ucraniano\x20\x28Ucrania\x29';
+				direction['uk_UA'] = 'ltr';
+
+			
+
+			Liferay.Language = {
+				available,
+				direction,
+				get: function(key) {
+					return key;
+				}
+			};
+		})();
+
+		var featureFlags = {"LPS-170122":false,"LPS-190890":false,"COMMERCE-9410":false,"LPS-172903":false,"LPS-178642":false,"LPS-187284":false,"LRAC-10632":false,"LPS-187285":false,"LPS-189187":false,"LPS-114786":false,"COMMERCE-8087":false,"LRAC-10757":false,"LPS-180090":false,"LPS-170809":false,"LPS-178052":false,"LPS-189856":false,"LPS-188645":false,"LPS-182184":false,"LPS-157670":false,"COMMERCE-11026":false,"LPS-180328":false,"COMMERCE-11028":false,"LPS-169923":false,"LPS-171364":false,"LPS-192282":false,"COMMERCE-11181":false,"LPS-153714":false,"COMMERCE-10890":false,"LPS-170670":false,"LPS-169981":false,"LPS-177664":false,"LPS-177027":false,"LPS-177668":false,"LPS-172416":false,"LPS-172017":false,"LPS-163118":false,"LPS-135430":false,"LPS-134060":false,"LPS-164563":false,"LPS-122920":false,"LPS-148856":false,"LPS-173135":false,"LPS-182728":false,"LPS-167253":false,"LPS-169992":false,"LPS-187142":false,"LPS-183498":false,"LRAC-14055":false,"LPS-187854":false,"LPS-179483":false,"LPS-166479":false,"LPS-165346":false,"LPS-144527":false,"COMMERCE-8949":false,"LPS-188060":false,"LPS-149256":false,"LPS-165482":false,"COMMERCE-11287":false,"LPS-174939":false,"LPS-174816":false,"LPS-186360":false,"LPS-189430":false,"LPS-153332":false,"LPS-179669":false,"LPS-174417":false,"LPS-183882":false,"LPS-155284":false,"LPS-186558":false,"LPS-176083":false,"LPS-158675":false,"LPS-184413":false,"LPS-184016":false,"LPS-180292":false,"LPS-159643":false,"LPS-161033":false,"LPS-164948":false,"LPS-184255":false,"LPS-129412":false,"LPS-183727":false,"LPS-166126":false,"LPS-182512":false,"LPS-187846":false,"LPS-186757":false};
+
+		Liferay.FeatureFlags = Object.keys(featureFlags).reduce(
+			(acc, key) => ({
+				...acc, [key]: featureFlags[key] === 'true' || featureFlags[key] === true
+			}), {}
+		);
+
+		Liferay.PortletKeys = {
+			DOCUMENT_LIBRARY: 'com_liferay_document_library_web_portlet_DLPortlet',
+			DYNAMIC_DATA_MAPPING: 'com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet',
+			ITEM_SELECTOR: 'com_liferay_item_selector_web_portlet_ItemSelectorPortlet'
+		};
+
+		Liferay.PropsValues = {
+			JAVASCRIPT_SINGLE_PAGE_APPLICATION_TIMEOUT: 0,
+			UPLOAD_SERVLET_REQUEST_IMPL_MAX_SIZE: 15485760000
+		};
+
+		Liferay.ThemeDisplay = {
+
+			
+
+			
+				getLayoutId: function() {
+					return '235';
+				},
+
+				
+
+				getLayoutRelativeControlPanelURL: function() {
+					return '/group/migraciones/~/control_panel/manage';
+				},
+
+				getLayoutRelativeURL: function() {
+					return '/web/migraciones/home';
+				},
+				getLayoutURL: function() {
+					return 'https://www.inclusion.gob.es/web/migraciones/home';
+				},
+				getParentLayoutId: function() {
+					return '0';
+				},
+				isControlPanel: function() {
+					return false;
+				},
+				isPrivateLayout: function() {
+					return 'false';
+				},
+				isVirtualLayout: function() {
+					return false;
+				},
+			
+
+			getBCP47LanguageId: function() {
+				return 'es-ES';
+			},
+			getCanonicalURL: function() {
+
+				
+
+				return 'https\x3a\x2f\x2fwww\x2einclusion\x2egob\x2ees\x2fweb\x2fmigraciones\x2fhome';
+			},
+			getCDNBaseURL: function() {
+				return 'https://www.inclusion.gob.es';
+			},
+			getCDNDynamicResourcesHost: function() {
+				return '';
+			},
+			getCDNHost: function() {
+				return '';
+			},
+			getCompanyGroupId: function() {
+				return '20123';
+			},
+			getCompanyId: function() {
+				return '20097';
+			},
+			getDefaultLanguageId: function() {
+				return 'es_ES';
+			},
+			getDoAsUserIdEncoded: function() {
+				return '';
+			},
+			getLanguageId: function() {
+				return 'es_ES';
+			},
+			getParentGroupId: function() {
+				return '410169';
+			},
+			getPathContext: function() {
+				return '';
+			},
+			getPathImage: function() {
+				return '/image';
+			},
+			getPathJavaScript: function() {
+				return '/o/frontend-js-web';
+			},
+			getPathMain: function() {
+				return '/c';
+			},
+			getPathThemeImages: function() {
+				return 'https://www.inclusion.gob.es/o/missmi-theme/images';
+			},
+			getPathThemeRoot: function() {
+				return '/o/missmi-theme';
+			},
+			getPlid: function() {
+				return '2149';
+			},
+			getPortalURL: function() {
+				return 'https://www.inclusion.gob.es';
+			},
+			getRealUserId: function() {
+				return '20102';
+			},
+			getRemoteAddr: function() {
+				return '194.179.55.145';
+			},
+			getRemoteHost: function() {
+				return '194.179.55.145';
+			},
+			getScopeGroupId: function() {
+				return '410169';
+			},
+			getScopeGroupIdOrLiveGroupId: function() {
+				return '410169';
+			},
+			getSessionId: function() {
+				return '';
+			},
+			getSiteAdminURL: function() {
+				return 'https://www.inclusion.gob.es/group/migraciones/~/control_panel/manage?p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view';
+			},
+			getSiteGroupId: function() {
+				return '410169';
+			},
+			getURLControlPanel: function() {
+				return '/group/control_panel?refererPlid=2149';
+			},
+			getURLHome: function() {
+				return 'https\x3a\x2f\x2fwww\x2einclusion\x2egob\x2ees\x2f';
+			},
+			getUserEmailAddress: function() {
+				return '';
+			},
+			getUserId: function() {
+				return '20102';
+			},
+			getUserName: function() {
+				return '';
+			},
+			isAddSessionIdToURL: function() {
+				return false;
+			},
+			isImpersonated: function() {
+				return false;
+			},
+			isSignedIn: function() {
+				return false;
+			},
+
+			isStagedPortlet: function() {
+				
+					
+						return false;
+					
+				
+			},
+
+			isStateExclusive: function() {
+				return false;
+			},
+			isStateMaximized: function() {
+				return false;
+			},
+			isStatePopUp: function() {
+				return false;
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		Liferay.AUI = {
+
+			
+
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=es_ES&t=1748956625380&';
+			},
+			getDateFormat: function() {
+				return '%d/%m/%Y';
+			},
+			getEditorCKEditorPath: function() {
+				return '/o/frontend-editor-ckeditor-web';
+			},
+			getFilter: function() {
+				var filter = 'raw';
+
+				
+					
+						filter = 'min';
+					
+					
+
+				return filter;
+			},
+			getFilterConfig: function() {
+				var instance = this;
+
+				var filterConfig = null;
+
+				if (!instance.getCombine()) {
+					filterConfig = {
+						replaceStr: '.js' + instance.getStaticResourceURLParams(),
+						searchExp: '\\.js$'
+					};
+				}
+
+				return filterConfig;
+			},
+			getJavaScriptRootPath: function() {
+				return '/o/frontend-js-web';
+			},
+			getPortletRootPath: function() {
+				return '/html/portlet';
+			},
+			getStaticResourceURLParams: function() {
+				return '?browserId=other&minifierType=&languageId=es_ES&t=1748956625380';
+			}
+		};
+
+		Liferay.authToken = '3p6bQqpx';
+
+		
+
+		Liferay.currentURL = '\x2fweb\x2fmigraciones\x2fhomedocuments\x2f387478\x2f1569992\x2fanexoIII\x2epdf\x2f93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6\x3ft\x3d1718896277947';
+		Liferay.currentURLEncoded = '\x252Fweb\x252Fmigraciones\x252Fhomedocuments\x252F387478\x252F1569992\x252FanexoIII\x2epdf\x252F93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6\x253Ft\x253D1718896277947';
+	// ]]>
+</script>
+
+<script data-senna-track="temporary" type="text/javascript">window.__CONFIG__= {basePath: '',combine: true, defaultURLParams: null, explainResolutions: false, exposeGlobal: false, logLevel: 'warn', moduleType: 'module', namespace:'Liferay', reportMismatchedAnonymousModules: 'warn', resolvePath: '/o/js_resolve_modules/0e0481f3-5082-4d48-816a-feefe5875f2f', url: '/combo/?browserId=other&minifierType=js&languageId=es_ES&t=1748956625380&', waitTimeout: 60000};</script><script data-senna-track="permanent" src="/o/frontend-js-loader-modules-extender/loader.js?&mac=kuyYLzgmJRuntKLenfFpZdHstco=&browserId=other&languageId=es_ES&minifierType=js" type="text/javascript"></script><script data-senna-track="permanent" src="/combo?browserId=other&minifierType=js&languageId=es_ES&t=1748956625380&/o/frontend-js-aui-web/aui/aui/aui-min.js&/o/frontend-js-aui-web/liferay/modules.js&/o/frontend-js-aui-web/liferay/aui_sandbox.js&/o/frontend-js-aui-web/aui/attribute-base/attribute-base-min.js&/o/frontend-js-aui-web/aui/attribute-complex/attribute-complex-min.js&/o/frontend-js-aui-web/aui/attribute-core/attribute-core-min.js&/o/frontend-js-aui-web/aui/attribute-observable/attribute-observable-min.js&/o/frontend-js-aui-web/aui/attribute-extras/attribute-extras-min.js&/o/frontend-js-aui-web/aui/event-custom-base/event-custom-base-min.js&/o/frontend-js-aui-web/aui/event-custom-complex/event-custom-complex-min.js&/o/frontend-js-aui-web/aui/oop/oop-min.js&/o/frontend-js-aui-web/aui/aui-base-lang/aui-base-lang-min.js&/o/frontend-js-aui-web/liferay/dependency.js&/o/frontend-js-aui-web/liferay/util.js&/o/frontend-js-web/liferay/dom_task_runner.js&/o/frontend-js-web/liferay/events.js&/o/frontend-js-web/liferay/lazy_load.js&/o/frontend-js-web/liferay/liferay.js&/o/frontend-js-web/liferay/global.bundle.js&/o/frontend-js-web/liferay/portlet.js&/o/frontend-js-web/liferay/workflow.js&/o/oauth2-provider-web/js/liferay.js" type="text/javascript"></script>
+<script data-senna-track="temporary" type="text/javascript">window.Liferay = Liferay || {}; window.Liferay.OAuth2 = {getAuthorizeURL: function() {return 'https://www.inclusion.gob.es/o/oauth2/authorize';}, getBuiltInRedirectURL: function() {return 'https://www.inclusion.gob.es/o/oauth2/redirect';}, getIntrospectURL: function() { return 'https://www.inclusion.gob.es/o/oauth2/introspect';}, getTokenURL: function() {return 'https://www.inclusion.gob.es/o/oauth2/token';}, getUserAgentApplication: function(externalReferenceCode) {return Liferay.OAuth2._userAgentApplications[externalReferenceCode];}, _userAgentApplications: {}}</script><script data-senna-track="temporary" type="text/javascript">try {var MODULE_MAIN='frontend-js-components-web@2.0.53/index';var MODULE_PATH='/o/frontend-js-components-web';AUI().applyConfig({groups:{components:{mainModule:MODULE_MAIN}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='contacts-web@5.0.52/index';var MODULE_PATH='/o/contacts-web';AUI().applyConfig({groups:{contactscenter:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-contacts-center":{path:"main.js",requires:["aui-io-plugin-deprecated","aui-toolbar","autocomplete-base","datasource-io","json-parse","liferay-portlet-base","liferay-util-window"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='calendar-web@5.0.78/index';var MODULE_PATH='/o/calendar-web';AUI().applyConfig({groups:{calendar:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-calendar-a11y":{path:"calendar_a11y.js",requires:["calendar"]},"liferay-calendar-container":{path:"calendar_container.js",requires:["aui-alert","aui-base","aui-component","liferay-portlet-base"]},"liferay-calendar-date-picker-sanitizer":{path:"date_picker_sanitizer.js",requires:["aui-base"]},"liferay-calendar-interval-selector":{path:"interval_selector.js",requires:["aui-base","liferay-portlet-base"]},"liferay-calendar-interval-selector-scheduler-event-link":{path:"interval_selector_scheduler_event_link.js",requires:["aui-base","liferay-portlet-base"]},"liferay-calendar-list":{path:"calendar_list.js",requires:["aui-template-deprecated","liferay-scheduler"]},"liferay-calendar-message-util":{path:"message_util.js",requires:["liferay-util-window"]},"liferay-calendar-recurrence-converter":{path:"recurrence_converter.js",requires:[]},"liferay-calendar-recurrence-dialog":{path:"recurrence.js",requires:["aui-base","liferay-calendar-recurrence-util"]},"liferay-calendar-recurrence-util":{path:"recurrence_util.js",requires:["aui-base","liferay-util-window"]},"liferay-calendar-reminders":{path:"calendar_reminders.js",requires:["aui-base"]},"liferay-calendar-remote-services":{path:"remote_services.js",requires:["aui-base","aui-component","liferay-calendar-util","liferay-portlet-base"]},"liferay-calendar-session-listener":{path:"session_listener.js",requires:["aui-base","liferay-scheduler"]},"liferay-calendar-simple-color-picker":{path:"simple_color_picker.js",requires:["aui-base","aui-template-deprecated"]},"liferay-calendar-simple-menu":{path:"simple_menu.js",requires:["aui-base","aui-template-deprecated","event-outside","event-touch","widget-modality","widget-position","widget-position-align","widget-position-constrain","widget-stack","widget-stdmod"]},"liferay-calendar-util":{path:"calendar_util.js",requires:["aui-datatype","aui-io","aui-scheduler","aui-toolbar","autocomplete","autocomplete-highlighters"]},"liferay-scheduler":{path:"scheduler.js",requires:["async-queue","aui-datatype","aui-scheduler","dd-plugin","liferay-calendar-a11y","liferay-calendar-message-util","liferay-calendar-recurrence-converter","liferay-calendar-recurrence-util","liferay-calendar-util","liferay-scheduler-event-recorder","liferay-scheduler-models","promise","resize-plugin"]},"liferay-scheduler-event-recorder":{path:"scheduler_event_recorder.js",requires:["dd-plugin","liferay-calendar-util","resize-plugin"]},"liferay-scheduler-models":{path:"scheduler_models.js",requires:["aui-datatype","dd-plugin","liferay-calendar-util"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/document-library-web@6.0.163/document_library/js/index';var MODULE_PATH='/o/document-library-web';AUI().applyConfig({groups:{dl:{base:MODULE_PATH+"/document_library/js/legacy/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"document-library-upload-component":{path:"DocumentLibraryUpload.js",requires:["aui-component","aui-data-set-deprecated","aui-overlay-manager-deprecated","aui-overlay-mask-deprecated","aui-parse-content","aui-progressbar","aui-template-deprecated","liferay-search-container","querystring-parse-simple","uploader"]}},root:MODULE_PATH+"/document_library/js/legacy/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='exportimport-web@5.0.76/index';var MODULE_PATH='/o/exportimport-web';AUI().applyConfig({groups:{exportimportweb:{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-export-import-export-import":{path:"js/main.js",requires:["aui-datatype","aui-dialog-iframe-deprecated","aui-modal","aui-parse-content","aui-toggler","liferay-portlet-base","liferay-util-window"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='commerce-frontend-impl@4.0.49/index';var MODULE_PATH='/o/commerce-frontend-impl';AUI().applyConfig({groups:{commercefrontend:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),modules:{"liferay-commerce-frontend-management-bar-state":{condition:{trigger:"liferay-management-bar"},path:"management_bar_state.js",requires:["liferay-management-bar"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='invitation-invite-members-web@5.0.29/index';var MODULE_PATH='/o/invitation-invite-members-web';AUI().applyConfig({groups:{"invite-members":{base:MODULE_PATH+"/invite_members/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-portlet-invite-members":{path:"main.js",requires:["aui-base","autocomplete-base","datasource-io","datatype-number","liferay-portlet-base","liferay-util-window","node-core"]}},root:MODULE_PATH+"/invite_members/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-js-state-web@1.0.18/index';var MODULE_PATH='/o/frontend-js-state-web';AUI().applyConfig({groups:{state:{mainModule:MODULE_MAIN}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='dynamic-data-mapping-web@5.0.93/index';var MODULE_PATH='/o/dynamic-data-mapping-web';!function(){const a=Liferay.AUI;AUI().applyConfig({groups:{ddm:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:a.getFilterConfig(),modules:{"liferay-ddm-form":{path:"ddm_form.js",requires:["aui-base","aui-datatable","aui-datatype","aui-image-viewer","aui-parse-content","aui-set","aui-sortable-list","json","liferay-form","liferay-map-base","liferay-translation-manager","liferay-util-window"]},"liferay-portlet-dynamic-data-mapping":{condition:{trigger:"liferay-document-library"},path:"main.js",requires:["arraysort","aui-form-builder-deprecated","aui-form-validator","aui-map","aui-text-unicode","json","liferay-menu","liferay-translation-manager","liferay-util-window","text"]},"liferay-portlet-dynamic-data-mapping-custom-fields":{condition:{trigger:"liferay-document-library"},path:"custom_fields.js",requires:["liferay-portlet-dynamic-data-mapping"]}},root:MODULE_PATH+"/js/"}}})}();
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-taglib@12.3.5/index';var MODULE_PATH='/o/frontend-taglib';AUI().applyConfig({groups:{"frontend-taglib":{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-management-bar":{path:"management_bar/js/management_bar.js",requires:["aui-component","liferay-portlet-base"]},"liferay-sidebar-panel":{path:"sidebar_panel/js/sidebar_panel.js",requires:["aui-base","aui-debounce","aui-parse-content","liferay-portlet-base"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='staging-processes-web@5.0.49/index';var MODULE_PATH='/o/staging-processes-web';AUI().applyConfig({groups:{stagingprocessesweb:{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-staging-processes-export-import":{path:"js/main.js",requires:["aui-datatype","aui-dialog-iframe-deprecated","aui-modal","aui-parse-content","aui-toggler","liferay-portlet-base","liferay-util-window"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='commerce-product-content-web@4.0.102/index';var MODULE_PATH='/o/commerce-product-content-web';AUI().applyConfig({groups:{productcontent:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),modules:{"liferay-commerce-product-content":{path:"product_content.js",requires:["aui-base","aui-io-request","aui-parse-content","liferay-portlet-base","liferay-portlet-url"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='@liferay/frontend-js-react-web@5.0.31/index';var MODULE_PATH='/o/frontend-js-react-web';AUI().applyConfig({groups:{react:{mainModule:MODULE_MAIN}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='product-navigation-taglib@6.0.54/index';var MODULE_PATH='/o/product-navigation-taglib';AUI().applyConfig({groups:{controlmenu:{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-product-navigation-control-menu":{path:"control_menu/js/product_navigation_control_menu.js",requires:["aui-node","event-touch"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='staging-taglib@7.0.46/index';var MODULE_PATH='/o/staging-taglib';AUI().applyConfig({groups:{stagingTaglib:{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-export-import-management-bar-button":{path:"export_import_entity_management_bar_button/js/main.js",requires:["aui-component","liferay-search-container","liferay-search-container-select"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='frontend-editor-alloyeditor-web@5.0.42/index';var MODULE_PATH='/o/frontend-editor-alloyeditor-web';AUI().applyConfig({groups:{alloyeditor:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-alloy-editor":{path:"alloyeditor.js",requires:["aui-component","liferay-portlet-base","timers"]},"liferay-alloy-editor-source":{path:"alloyeditor_source.js",requires:["aui-debounce","liferay-fullscreen-source-editor","liferay-source-editor","plugin"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='item-selector-taglib@5.3.14/index.es';var MODULE_PATH='/o/item-selector-taglib';AUI().applyConfig({groups:{"item-selector-taglib":{base:MODULE_PATH+"/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-image-selector":{path:"image_selector/js/image_selector.js",requires:["aui-base","liferay-item-selector-dialog","liferay-portlet-base","uploader"]}},root:MODULE_PATH+"/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='journal-web@5.0.151/index';var MODULE_PATH='/o/journal-web';AUI().applyConfig({groups:{journal:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-journal-navigation":{path:"navigation.js",requires:["aui-component","liferay-portlet-base","liferay-search-container"]},"liferay-portlet-journal":{path:"main.js",requires:["aui-base","liferay-portlet-base","liferay-util-window"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='portal-workflow-task-web@5.0.62/index';var MODULE_PATH='/o/portal-workflow-task-web';AUI().applyConfig({groups:{workflowtasks:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-workflow-tasks":{path:"main.js",requires:["liferay-util-window"]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='portal-search-web@6.0.114/index';var MODULE_PATH='/o/portal-search-web';AUI().applyConfig({groups:{search:{base:MODULE_PATH+"/js/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-search-bar":{path:"search_bar.js",requires:[]},"liferay-search-custom-filter":{path:"custom_filter.js",requires:[]},"liferay-search-facet-util":{path:"facet_util.js",requires:[]},"liferay-search-modified-facet":{path:"modified_facet.js",requires:["aui-form-validator","liferay-search-facet-util"]},"liferay-search-modified-facet-configuration":{path:"modified_facet_configuration.js",requires:["aui-node"]},"liferay-search-sort-configuration":{path:"sort_configuration.js",requires:["aui-node"]},"liferay-search-sort-util":{path:"sort_util.js",requires:[]}},root:MODULE_PATH+"/js/"}}});
+} catch(error) {console.error(error);}try {var MODULE_MAIN='portal-workflow-kaleo-designer-web@5.0.115/index';var MODULE_PATH='/o/portal-workflow-kaleo-designer-web';AUI().applyConfig({groups:{"kaleo-designer":{base:MODULE_PATH+"/designer/js/legacy/",combine:Liferay.AUI.getCombine(),filter:Liferay.AUI.getFilterConfig(),modules:{"liferay-kaleo-designer-autocomplete-util":{path:"autocomplete_util.js",requires:["autocomplete","autocomplete-highlighters"]},"liferay-kaleo-designer-definition-diagram-controller":{path:"definition_diagram_controller.js",requires:["liferay-kaleo-designer-field-normalizer","liferay-kaleo-designer-utils"]},"liferay-kaleo-designer-dialogs":{path:"dialogs.js",requires:["liferay-util-window"]},"liferay-kaleo-designer-editors":{path:"editors.js",requires:["aui-ace-editor","aui-ace-editor-mode-xml","aui-base","aui-datatype","aui-node","liferay-kaleo-designer-autocomplete-util","liferay-kaleo-designer-utils"]},"liferay-kaleo-designer-field-normalizer":{path:"field_normalizer.js",requires:["liferay-kaleo-designer-remote-services"]},"liferay-kaleo-designer-nodes":{path:"nodes.js",requires:["aui-datatable","aui-datatype","aui-diagram-builder","liferay-kaleo-designer-editors","liferay-kaleo-designer-utils"]},"liferay-kaleo-designer-remote-services":{path:"remote_services.js",requires:["aui-io","liferay-portlet-url"]},"liferay-kaleo-designer-templates":{path:"templates.js",requires:["aui-tpl-snippets-deprecated"]},"liferay-kaleo-designer-utils":{path:"utils.js",requires:[]},"liferay-kaleo-designer-xml-definition":{path:"xml_definition.js",requires:["aui-base","aui-component","dataschema-xml","datatype-xml"]},"liferay-kaleo-designer-xml-definition-serializer":{path:"xml_definition_serializer.js",requires:["escape","liferay-kaleo-designer-xml-util"]},"liferay-kaleo-designer-xml-util":{path:"xml_util.js",requires:["aui-base"]},"liferay-portlet-kaleo-designer":{path:"main.js",requires:["aui-ace-editor","aui-ace-editor-mode-xml","aui-tpl-snippets-deprecated","dataschema-xml","datasource","datatype-xml","event-valuechange","io-form","liferay-kaleo-designer-autocomplete-util","liferay-kaleo-designer-editors","liferay-kaleo-designer-nodes","liferay-kaleo-designer-remote-services","liferay-kaleo-designer-utils","liferay-kaleo-designer-xml-util","liferay-util-window"]}},root:MODULE_PATH+"/designer/js/legacy/"}}});
+} catch(error) {console.error(error);}</script>
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	// <![CDATA[
+		
+			
+				
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+	
+		
+
+			
+
+			
+		
+		
+
+
+
+	
+		
+
+			
+
+			
+		
+		
+
+
+
+	
+		
+
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" data-senna-track="temporary" href="https://www.inclusion.gob.es/o/missmi-theme/css/main.css?browserId=other&amp;themeId=missmitheme_WAR_missmitheme&amp;minifierType=css&amp;languageId=es_ES&amp;t=1748956696000" id="liferayThemeCSS" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+	<style data-senna-track="temporary" type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+<script data-senna-track="temporary">var Liferay = window.Liferay || {}; Liferay.CommerceContext = {"commerceAccountGroupIds":[],"accountEntryAllowedTypes":["person"],"commerceChannelId":"0","currency":{"currencyId":"4839585","currencyCode":"USD"},"commerceSiteType":0};</script><link href="/o/commerce-frontend-js/styles/main.css" rel="stylesheet" type="text/css" />
+<style data-senna-track="temporary" type="text/css">
+	:root {
+		--missm-header: #FFDB00;
+		--hover-primary: #0075E0;
+		--missm-secondary: #8d2e42;
+		--missm-text: #2a2a2a;
+		--missm-primary: #154481;
+		--missm-pearl: #F2E9D8;
+		--mdGrey-color: #595959;
+		--light-blue-color: #a8c7ff;
+		--grey-color: #f5f5f5;
+		--white-color: #fff;
+		--dark-color: #302c2c;
+		--missm-grey: #edf0f3;
+	}
+</style>
+<link data-senna-track="temporary" href="/o/layout-common-styles/main.css?plid=2149&segmentsExperienceId=4786574&t=1748432275002" rel="stylesheet" type="text/css"><script>
+Liferay.Loader.require(
+'@liferay/frontend-js-state-web@1.0.18',
+function(FrontendJsState) {
+try {
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script>
+
+
+
+
+
+
+
+<script data-senna-track="temporary" type="text/javascript">
+	if (window.Analytics) {
+		window._com_liferay_document_library_analytics_isViewFileEntry = false;
+	}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+Liferay.on(
+	'ddmFieldBlur', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldBlurred',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					focusDuration: event.focusDuration,
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFieldFocus', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldFocused',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title:event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormPageShow', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'pageViewed',
+				'Form',
+				{
+					formId: event.formId,
+					formPageTitle: event.formPageTitle,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormSubmit', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formSubmitted',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+Liferay.on(
+	'ddmFormView', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formViewed',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+
+</script><script>
+
+</script>
+
+	<script type="module" src="https://www.inclusion.gob.es/o/missmi-theme/js/duet/duet.esm.js"></script>
+	<script nomodule src="https://www.inclusion.gob.es/o/missmi-theme/js/duet/duet.js"></script>
+		<script src="https://www.inclusion.gob.es/o/missmi-theme/js/missmUtil.js?browserId=other&amp;minifierType=js&amp;languageId=es_ES&amp;t=1748956696000" type="text/javascript"></script>
+		<script src="https://www.inclusion.gob.es/o/missmi-theme/js/org_chart/org_chart.js?browserId=other&amp;minifierType=js&amp;languageId=es_ES&amp;t=1748956696000" type="text/javascript"></script>
+	<script async="async" type="text/javascript" src="https://insuit.net/i4tservice/insuit-app.js"></script>
+	
+	
+	<link rel="stylesheet" type="text/css" href="https://www.inclusion.gob.es/o/missmi-theme/js/slick/slick.min.css">
+	<link rel="stylesheet" href="https://www.inclusion.gob.es/o/missmi-theme/js/slick/accessible-slick-theme.min.css">
+	<link rel="stylesheet" href="https://www.inclusion.gob.es/o/missmi-theme/css/duet/default.css" />
+	<link href="https://www.inclusion.gob.es/o/missmi-theme/css\all.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://www.inclusion.gob.es/o/missmi-theme/css/video-js/video-js.css" />
+
+	<link rel="stylesheet" href="https://www.inclusion.gob.es/o/missmi-theme/css/cookieconsent/cookieconsent.css">
+</head>
+
+<body class="other controls-visible  yui3-skin-sam signed-out public-page site ninguno">
+	<script type="module" src="https://www.inclusion.gob.es/o/missmi-theme/js/cookieconsent/cookieconsent-config.js"></script>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<nav aria-label="Enlaces rápidos" class="bg-dark cadmin quick-access-nav text-center text-white" id="tcxa_quickAccessNav">
+		
+			
+				<a class="d-block p-2 sr-only sr-only-focusable text-reset" href="#main-content">
+		Saltar al contenido principal
+	</a>
+			
+			
+	</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="mainWrapper" id="wrapper">
+
+
+
+
+<header id="banner" role="banner" class="t-wrapperHeader">
+	<div class="navbar navbar-expand-lg ">
+		<div class="container-fluid m-first-wrapper">
+			<ul class="m-listLogos m-listBase">
+				<li class="m-listLogos__item m-listLogos__item--esp">
+					<a href="/" title="Ministerio de Inclusión, Seguridad Social y Migraciones">
+						<img src="https://www.inclusion.gob.es/o/missmi-theme/images/logos/logo_Gob_MISSM.svg" alt="Logotipo delMinisterio de Inclusión, Seguridad Social y Migraciones">
+					</a>
+				</li>
+
+
+			</ul>
+
+			<div class="m-search m-headerSearchLengDesktop">
+			
+				<div class="m-language-wrapperDesktop">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+	<div class="fmdesktop-language-selector">
+		<div class="language-picker language-picker--flags fmdesktop-js-language-picker" data-trigger-class="btn btn--subtle js-tab-focus">
+			<form action="" class="language-picker__form">
+				<label for="fmdesktop-language-picker-select">Selecciona tu idioma</label>
+				<select name="fmdesktop-language-picker-select" id="fmdesktop-language-picker-select">
+						<option lang="es-ES" value="es_ES"  selected  >Castellano</option>
+						<option lang="ca-ES" value="ca_ES"  >Català</option>
+						<option lang="eu-ES" value="eu_ES"  >Euskara</option>
+						<option lang="gl-ES" value="gl_ES"  >Galego</option>
+						<option lang="en-US" value="en_US"  >English</option>
+						<option lang="fr-FR" value="fr_FR"  >Français</option>
+				</select>
+			</form>
+		</div>
+	</div>
+
+	<script>
+		var fmdesktopLanguagePicker = function(element) {
+			this.element = element;
+			this.select = this.element.getElementsByTagName('select')[0];
+			this.options = this.select.getElementsByTagName('option');
+			this.selectedOption = fmdesktopgetSelectedOptionText(this);
+			this.pickerId = this.select.getAttribute('id');
+			this.trigger = false;
+			this.dropdown = false;
+			this.firstLanguage = false;
+
+			// dropdown arrow inside the button element
+			//this.arrowSvgPath = '<svg viewBox="0 0 16 16"><polygon points="3,5 8,11 13,5 "></polygon></svg>';
+			//this.globeSvgPath = '<svg viewBox="0 0 16 16"><path d="M8,0C3.6,0,0,3.6,0,8s3.6,8,8,8s8-3.6,8-8S12.4,0,8,0z M13.9,7H12c-0.1-1.5-0.4-2.9-0.8-4.1 C12.6,3.8,13.6,5.3,13.9,7z M8,14c-0.6,0-1.8-1.9-2-5H10C9.8,12.1,8.6,14,8,14z M6,7c0.2-3.1,1.3-5,2-5s1.8,1.9,2,5H6z M4.9,2.9 C4.4,4.1,4.1,5.5,4,7H2.1C2.4,5.3,3.4,3.8,4.9,2.9z M2.1,9H4c0.1,1.5,0.4,2.9,0.8,4.1C3.4,12.2,2.4,10.7,2.1,9z M11.1,13.1 c0.5-1.2,0.7-2.6,0.8-4.1h1.9C13.6,10.7,12.6,12.2,11.1,13.1z"></path></svg>';
+
+			fmdesktopinitLanguagePicker(this);
+			fmdesktopinitLanguagePickerEvents(this);
+		};
+
+		function fmdesktopinitLanguagePicker(picker) {
+			// create the HTML for the custom dropdown element
+			picker.element.insertAdjacentHTML('beforeend', fmdesktopinitButtonPicker(picker) + fmdesktopinitListPicker(picker));
+			
+			// save picker elements
+			picker.dropdown = picker.element.getElementsByClassName('language-picker__dropdown')[0];
+			picker.languages = picker.dropdown.getElementsByClassName('language-picker__item');
+			picker.firstLanguage = picker.languages[0];
+			picker.trigger = picker.element.getElementsByClassName('language-picker__button')[0];
+		};
+
+		function fmdesktopinitLanguagePickerEvents(picker) {
+			// language selection in dropdown
+			fmdesktopinitLanguageSelection(picker);
+
+			// click events
+			picker.trigger.addEventListener('click', function(){
+				fmdesktoptoggleLanguagePicker(picker, false);
+			});
+			// keyboard navigation
+			picker.dropdown.addEventListener('keydown', function(event){
+				if(event.keyCode && event.keyCode == 38 || event.key && event.key.toLowerCase() == 'arrowup') {
+					fmdesktopkeyboardNavigatePicker(picker, 'prev');
+				} else if(event.keyCode && event.keyCode == 40 || event.key && event.key.toLowerCase() == 'arrowdown') {
+					fmdesktopkeyboardNavigatePicker(picker, 'next');
+				}
+			});
+		};
+
+		function fmdesktoptoggleLanguagePicker(picker, bool) {
+			var ariaExpanded;
+			if(bool) {
+				ariaExpanded = bool;
+			} else {
+				ariaExpanded = picker.trigger.getAttribute('aria-expanded') == 'true' ? 'false' : 'true';
+			}
+			picker.trigger.setAttribute('aria-expanded', ariaExpanded);
+			if(ariaExpanded == 'true') {
+				picker.firstLanguage.focus(); // fallback if transition is not supported
+				picker.dropdown.addEventListener('transitionend', function cb(){
+					picker.firstLanguage.focus();
+					picker.dropdown.removeEventListener('transitionend', cb);
+				});
+				// place dropdown
+				fmdesktopplaceDropdown(picker);
+			}
+		};
+
+		function fmdesktopplaceDropdown(picker) {
+			var triggerBoundingRect = picker.trigger.getBoundingClientRect();
+			fmdesktoptoggleClass(picker.dropdown, 'language-picker__dropdown--right', (window.innerWidth < triggerBoundingRect.left + picker.dropdown.offsetWidth));
+			fmdesktoptoggleClass(picker.dropdown, 'language-picker__dropdown--up', (window.innerHeight < triggerBoundingRect.bottom + picker.dropdown.offsetHeight));
+		};
+
+		function fmdesktopcheckLanguagePickerClick(picker, target) { // if user clicks outside the language picker -> close it
+			if( !picker.element.contains(target) ) fmdesktoptoggleLanguagePicker(picker, 'false');
+		};
+
+		function fmdesktopmoveFocusToPickerTrigger(picker) {
+			if(picker.trigger.getAttribute('aria-expanded') == 'false') return;
+			if(document.activeElement.closest('.language-picker__dropdown') == picker.dropdown) picker.trigger.focus();
+		};
+
+		function fmdesktopinitButtonPicker(picker) { // create the button element -> picker trigger
+			// check if we need to add custom classes to the button trigger
+			var customClasses = picker.element.getAttribute('data-trigger-class') ? ' '+picker.element.getAttribute('data-trigger-class') : '';
+		
+			var button = '<button class="language-picker__button'+customClasses+'" aria-label="'+picker.select.value+' '+picker.element.getElementsByTagName('label')[0].textContent+'" aria-expanded="false" aria-controls="'+picker.pickerId+'-dropdown">';
+			button = button + '<span aria-hidden="true" class="language-picker__label language-picker__flag language-picker__flag--'+picker.select.value+'">'/*+picker.globeSvgPath*/+picker.selectedOption;
+			button = button /*+picker.arrowSvgPath*/+'</span><span class="m-arrow-down"></span>';
+			return button+'</button>';
+		};
+
+		function fmdesktopinitListPicker(picker) { // create language picker dropdown
+			var list = '<div class="language-picker__dropdown" aria-describedby="'+picker.pickerId+'-description" id="'+picker.pickerId+'-dropdown">';
+			list = list + '<p class="sr-only" id="'+picker.pickerId+'-description">'+picker.element.getElementsByTagName('label')[0].textContent+'</p>';
+			list = list + '<ul class="language-picker__list" role="listbox">';
+			for(var i = 0; i < picker.options.length; i++) {
+				var selected = picker.options[i].selected ? ' aria-selected="true"' : '', language = picker.options[i].getAttribute('lang');
+				list = list + '<li><a lang="'+language+'" hreflang="'+language+'" href="'+fmdesktopgetLanguageUrl(picker.options[i])+'"'+selected+' role="option" data-value="'+picker.options[i].value+'" class="language-picker__item language-picker__flag language-picker__flag--'+picker.options[i].value+'"><span>'+picker.options[i].text+'</span></a></li>';
+			};
+			return list;
+		};
+
+		function fmdesktopgetSelectedOptionText(picker) { // used to initialize the label of the picker trigger button
+			var label = '';
+			if('selectedIndex' in picker.select) {
+				label = picker.options[picker.select.selectedIndex].text;
+			} else {
+				label = picker.select.querySelector('option[selected]').text;
+			}
+			return label;
+		};
+
+		function fmdesktopgetLanguageUrl(option) {
+			return "/c/portal/update_language?p_l_id=2149&redirect=%2Fweb%2Fmigraciones%2Fhomedocuments%2F387478%2F1569992%2FanexoIII.pdf%2F93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6%3Ft%3D1718896277947&languageId=" + option.value;
+		};
+
+		function fmdesktopinitLanguageSelection(picker) {
+			picker.element.getElementsByClassName('language-picker__list')[0].addEventListener('click', function(event){
+				var language = event.target.closest('.language-picker__item');
+				if(!language) return;
+				
+				if(language.hasAttribute('aria-selected') && language.getAttribute('aria-selected') == 'true') {
+					// selecting the same language
+					event.preventDefault();
+					picker.trigger.setAttribute('aria-expanded', 'false'); // hide dropdown
+				} else { 
+					// ⚠️ Important: this 'else' code needs to be removed in production. 
+					// The user has to be redirected to the new url -> nothing to do here
+					/* event.preventDefault();
+					picker.element.getElementsByClassName('language-picker__list')[0].querySelector('[aria-selected="true"]').removeAttribute('aria-selected');
+					language.setAttribute('aria-selected', 'true');
+					picker.trigger.getElementsByClassName('language-picker__label')[0].setAttribute('class', 'language-picker__label language-picker__flag language-picker__flag--'+language.getAttribute('data-value'));
+					picker.trigger.getElementsByClassName('language-picker__label')[0].getElementsByTagName('em')[0].textContent = language.textContent;
+					picker.trigger.setAttribute('aria-expanded', 'false'); */
+				}
+			});
+		};
+
+		function fmdesktopkeyboardNavigatePicker(picker, direction) {
+			var index = Array.prototype.indexOf.call(picker.languages, document.activeElement);
+			index = (direction == 'next') ? index + 1 : index - 1;
+			if(index < 0) index = picker.languages.length - 1;
+			if(index >= picker.languages.length) index = 0;
+			fmdesktopmoveFocus(picker.languages[index]);
+		};
+
+		function fmdesktopaddClass(el, className) {
+			var classList = className.split(' ');
+			el.classList.add(classList[0]);
+			if (classList.length > 1) fmdesktopaddClass(el, classList.slice(1).join(' '));
+		};
+
+		function fmdesktopremoveClass(el, className) {
+			var classList = className.split(' ');
+			el.classList.remove(classList[0]);	
+			if (classList.length > 1) fmdesktopremoveClass(el, classList.slice(1).join(' '));
+		};
+		
+		function fmdesktoptoggleClass(el, className, bool) {
+			if(bool) fmdesktopaddClass(el, className);
+			else fmdesktopremoveClass(el, className);
+		};
+
+		function fmdesktopmoveFocus(element) {
+			if( !element ) element = document.getElementsByTagName("body")[0];
+			element.focus();
+			if (document.activeElement !== element) {
+				element.setAttribute('tabindex','-1');
+				element.focus();
+			}
+		};
+
+		//initialize the LanguagePicker objects
+		var fmdesktopPicker = document.getElementsByClassName('fmdesktop-js-language-picker');
+		if (fmdesktopPicker.length > 0) {
+			var fmdesktoppickerArray = [];
+			for( var i = 0; i < fmdesktopPicker.length; i++) {
+				(function(i){fmdesktoppickerArray.push(new fmdesktopLanguagePicker(fmdesktopPicker[i]));})(i);
+			}
+
+			// listen for key events
+			window.addEventListener('keyup', function(event){
+				if( event.keyCode && event.keyCode == 27 || event.key && event.key.toLowerCase() == 'escape' ) {
+					// close language picker on 'Esc'
+					fmdesktoppickerArray.forEach(function(element){
+						fmdesktopmoveFocusToPickerTrigger(element); // if focus is within dropdown, move it to dropdown trigger
+						fmdesktoptoggleLanguagePicker(element, 'false'); // close dropdown
+					});
+				} 
+			});
+			// close language picker when clicking outside it
+			window.addEventListener('click', function(event){
+				fmdesktoppickerArray.forEach(function(element){
+					fmdesktopcheckLanguagePickerClick(element, event.target);
+				});
+			});
+		}
+	</script>
+
+	<style>
+	
+
+		:root {
+			--picker-vertical-gap: 4px;
+		}
+
+		.language-picker {
+			display: inline-block;
+			position: relative;
+		}
+
+		.language-picker__form {
+			display: none;
+		}
+
+		.language-picker__button .icon {
+			height: 1rem;
+			width: 1rem;
+		}
+		.language-picker__dropdown {
+			position: absolute;
+			left: 0;
+			top: 100%;
+			min-width: 8.75rem;
+			background-color: white;
+			box-shadow: rgba(255, 255, 255, 0.075) 0px 0px 0.5px 1px inset, rgba(0, 0, 0, 0.03) 0px 0.9px 1.5px 0px, rgba(0, 0, 0, 0.08) 0px 3.1px 5.5px 0px, rgba(0, 0, 0, 0.12) 0px 14px 25px 0px;
+			/*border-left-color rgb(50, 54, 57);
+            border-left-style none;
+            border-left-width 0px;
+            border-right-color rgb(50, 54, 57);
+            border-right-style none;
+            border-right-width 0px;
+            border-top-color rgb(50, 54, 57);*/
+            margin: 0;
+			z-index: 5;
+			font-size: 1rem;
+            color: #1D1D1B;
+			visibility: hidden;
+			opacity: 0;
+			transition: visibility 0s 0.2s, opacity 0.2s;
+            padding: 0;
+            border-radius: 4px;
+		}
+
+		.language-picker__dropdown--right {
+			right: 0;
+			left: auto;
+		}
+
+		.language-picker__dropdown--up {
+			bottom: 100%;
+			top: auto;
+		}
+
+		.language-picker__button[aria-expanded=true] + .language-picker__dropdown {
+			visibility: visible;
+			opacity: 1;
+			transition: visibility 0s, opacity 0.2s;
+		}
+
+		.language-picker__item {
+			display: flex;
+			align-items: center;
+			text-decoration: none;
+			padding: 0.5rem;
+			color: #1D1D1B !Important;
+			transition: background 0.2s;
+			text-decoration: none !important;
+		}
+		.language-picker__item span {
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
+		}
+		.language-picker__item:hover {
+			background-color: rgba(13, 19, 23, 0.075);
+			color: #1D1D1B !Important;
+		}
+	
+		.language-picker__item[aria-selected=true] {
+			position: relative;
+			background-color: #a8c7ff;
+			color: white;
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
+		}
+	
+		.language-picker__item[aria-selected=true]::after {
+			content: "";
+			height: 16px;
+			width: 16px;
+			background-color: currentColor;
+			-webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpolyline stroke-width='2' stroke='%23ffffff' fill='none' stroke-linecap='round' stroke-linejoin='round' points='1,9 5,13 15,3 '/%3E%3C/svg%3E");
+					mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpolyline stroke-width='2' stroke='%23ffffff' fill='none' stroke-linecap='round' stroke-linejoin='round' points='1,9 5,13 15,3 '/%3E%3C/svg%3E");
+			margin-left: auto;
+		}
+
+		.language-picker__flag {
+			display: flex;
+			align-items: center;
+		}
+		.language-picker__button {
+			display: flex;
+			align-items: center;
+			padding: 0.5rem;
+			color: #1D1D1B;
+		}
+		.m-arrow-down {
+			background: url("/o/missmi-theme/images/icons/reusable/angle-circle-down.svg") no-repeat;
+			background-position: center center;
+			background-size: 1rem;
+			height: 21px;
+			width: 1.5rem;
+			border: none;
+			background-color: transparent;
+			transform: rotate(0);
+			transition-duration: 300ms;
+		}
+	
+		.language-picker--flags .language-picker__button .icon:first-of-type {
+			display: none;
+		}
+
+		.language-picker--hide-label .language-picker__button .icon {
+			margin-left: 0;
+		}
+		.language-picker--hide-label .language-picker__button .icon:first-of-type {
+			display: none;
+		}
+		.language-picker--hide-label .language-picker__button  {
+			display: none;
+		}
+		.language-picker--hide-label .language-picker__button .language-picker__flag::before {
+			margin-right: var(--space-xxxs);
+		}
+		.language-picker__list {
+			list-style: none;
+			padding-left: 0;
+            background-color: white;
+            margin: 0;
+            padding: 0;
+            border: 0;
+			font-size: 0.875rem;
+			border-radius: 6px;
+		}
+		.language-picker__list li {
+			margin-bottom: 0 !important;
+		}
+	</style>
+
+</div>
+				<div class="m-separator"></div>
+				<div class="m-search-form w-100">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_  portlet-static portlet-static-end portlet-barebone portlet-search-bar " id="p_p_id_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_">
+		<span id="p_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<section class="portlet" id="portlet_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<p role="presentation" class="portlet-title-text">Barra de búsqueda</p>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://www.inclusion.gob.es/web/migraciones/buscar" class="form  " data-fm-namespace="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_" id="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_fm" method="get" name="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_fm" >
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<input  class="field form-control"  id="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_formDate"    name="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_formDate"     type="hidden" value="1749820110691"   />
+			
+		
+
+		
+	
+
+
+
+
+
+
+
+
+
+			
+
+			
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+					
+					
+						<div class="search-bar">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<input  class="field search-bar-empty-search-input form-control"  id="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_emptySearchEnabled"    name="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_emptySearchEnabled"     type="hidden" value="false"   />
+			
+		
+
+		
+	
+
+
+
+
+
+
+
+
+
+
+							<div class="input-group search-bar-simple">
+								
+									
+									
+										<div class="input-group-item search-bar-keywords-input-wrapper">
+											<input aria-label="Buscar" autocomplete="off" class="form-control input-group-inset input-group-inset-after search-bar-keywords-input" data-qa-id="searchInput" id="dkrk___q" name="q" placeholder="Búsqueda…" title="Buscar" type="text" value="" />
+
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<input  class="field form-control"  id="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_scope"    name="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_scope"     type="hidden" value=""   />
+			
+		
+
+		
+	
+
+
+
+
+
+
+
+
+
+
+											<div class="input-group-inset-item input-group-inset-item-after">
+												<button class="btn btn-monospaced btn-unstyled" type="submit" aria-label="Buscar" ><span class="inline-item"><svg class="lexicon-icon lexicon-icon-search" role="presentation" viewBox="0 0 512 512"><use xlink:href="https://www.inclusion.gob.es/o/missmi-theme/images/clay/icons.svg#search" /></svg></span></button>
+											</div>
+										</div>
+									
+								
+							</div>
+						</div>
+					
+				
+			
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+</form>
+
+
+
+<script>
+AUI().use(
+  'liferay-form',
+function(A) {
+(function() {
+var $ = AUI.$;var _ = AUI._;
+	Liferay.Form.register(
+		{
+			id: '_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_fm'
+
+			
+				, fieldRules: [
+
+					
+
+				]
+			
+
+			
+
+			, validateOnBlur: true
+		}
+	);
+
+	var onDestroyPortlet = function(event) {
+		if (event.portletId === 'com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop') {
+			delete Liferay.Form._INSTANCES['_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_fm'];
+		}
+	};
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	
+
+	Liferay.fire(
+		'_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_formReady',
+		{
+			formName: '_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_fm'
+		}
+	);
+})();
+});
+
+</script>
+
+		<script>
+AUI().use(
+  'liferay-search-bar',
+  'aui-base',
+function(A) {
+(function() {
+var $ = AUI.$;var _ = AUI._;
+			if (!A.one('#_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_reactSearchBar')) {
+				new Liferay.Search.SearchBar(A.one('#_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_fm'));
+			}
+		
+})();
+});
+
+</script>
+	
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+				</div>
+				<button 
+					aria-label="Abrir búsqueda"
+					title="Abrir búsqueda" 
+					aria-controls="navigation" class="btn flex-shrink-0 m-search-button" 
+					type="button">
+					<span class="m-searchText">Buscar</span>
+					<svg class="lexicon-icon m-search"><use xlink:href="https://www.inclusion.gob.es/o/missmi-theme/images/lexicon/icons.svg#search" /></svg>
+					<svg class="lexicon-icon m-close"><use xlink:href="https://www.inclusion.gob.es/o/missmi-theme/images/lexicon/icons.svg#times" /></svg>
+				</button>
+				<div class="m-menuWrapper">
+					<button aria-label="mostrar submenu " class="m-menuButton">
+					<img class="" src="https://www.inclusion.gob.es/o/missmi-theme/images/icons/reusable/menu.svg" alt="" />
+					<span>Menú</span>
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>
+
+<div class="nav-desktop">
+	<nav aria-label="Main Navigation">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article no" data-analytics-asset-id="438010" data-analytics-asset-title="Menú" data-analytics-asset-type="web-content">
+			
+
+			
+<nav class="navbar navbar-expand-md navbar-dark missmi-navbar" id="missm-main-navigation-desk">
+     <div class="collapse navbar-collapse justify-content-md-end" id="navbarNavDropdown">
+		<ul class="navbar-nav w-100 justify-content-md-end">
+        <li class="nav-item dropdown position-static nav-item__missmTopLevel m-main-nav-desk__level1 has-children"
+            data-missm-menuid="294" data-missm-groupId="20121" data-missm-isGroup="false"
+        >
+            <div class="m-main-nav-desk">
+
+
+
+                <a class="nav-link dropdown-toggle no-blank" href="/web/guest/tramites-destacados" aria-haspopup="true" aria-expanded="false">
+                    Trámites Destacados 
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Trámites Destacados</button>
+            </div>
+
+        <div class="dropdown-menu w-100 missmi-submenu-container" role="menu">
+            <div class="col-8">
+                <ul class="row m-listBaseNoStyles">
+        <li class="col-6" data-missm-menuid="974" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/tramites/pensiones">Pensiones</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="975" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/tramites/altas-bajas-seguridad-social">Altas y bajas de la Seguridad Social</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="976" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/tramites/ayudas">Ayudas</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="1088" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/ingreso-minimo-vital">Ingreso Mínimo Vital / Complemento de Ayuda a la Infancia (CAPI)</a>
+
+        </li>
+                </ul>
+            </div>
+
+            <div id="missmi-destacado-page-1" class="col-4 separador"></div>
+		</div>
+        </li>
+        <li class="nav-item dropdown position-static nav-item__missmTopLevel m-main-nav-desk__level1 has-children"
+            data-missm-menuid="292" data-missm-groupId="20121" data-missm-isGroup="false"
+        >
+            <div class="m-main-nav-desk">
+
+
+
+                <a class="nav-link dropdown-toggle no-blank" href="/web/guest/el-ministerio" aria-haspopup="true" aria-expanded="false">
+                    El Ministerio 
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  El Ministerio</button>
+            </div>
+
+        <div class="dropdown-menu w-100 missmi-submenu-container" role="menu">
+            <div class="col-8">
+                <ul class="row m-listBaseNoStyles">
+        <li class="col-6" data-missm-menuid="219" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/el-ministerio/quienes-somos">¿Quiénes somos?</a>
+
+
+
+        <ul class="m-listBaseWrap">
+        <li data-missm-menuid="447" data-missm-groupId="20121" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/guest/el-ministro">La Ministra</a>
+        </li>
+        <li data-missm-menuid="304" data-missm-groupId="20121" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/guest/el-ministerio/biografias">Biografías</a>
+        </li>
+        </ul>
+        </li>
+        <li class="col-6" data-missm-menuid="455" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/organizacion">Organización administrativa</a>
+
+
+
+        <ul class="m-listBaseWrap">
+        <li data-missm-menuid="468" data-missm-groupId="20121" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/guest/organizacion/se-migraciones">S.E. de Migraciones</a>
+        </li>
+        <li data-missm-menuid="470" data-missm-groupId="20121" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/guest/organizacion/se-seguridad-social-pensiones">S.E. de la Seguridad Social y Pensiones</a>
+        </li>
+        <li data-missm-menuid="472" data-missm-groupId="20121" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/guest/organizacion/sg-inclusion">S.G. de Inclusión</a>
+        </li>
+        <li data-missm-menuid="474" data-missm-groupId="20121" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/guest/organizacion/subsecretaria">Subsecretaría de Inclusión, Seguridad Social y Migraciones</a>
+        </li>
+        </ul>
+        </li>
+        <li class="col-6" data-missm-menuid="302" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/el-ministerio/el-ministerio-en-el-mundo">El Ministerio en el mundo</a>
+
+
+
+        </li>
+        <li class="col-6" data-missm-menuid="306" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/el-ministerio/atencion-al-ciudadano">Atención al ciudadano</a>
+
+
+
+        <ul class="m-listBaseWrap">
+        <li data-missm-menuid="2801" data-missm-groupId="20121" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/guest/canal-interno-informacion">Canal Interno Información</a>
+        </li>
+        <li data-missm-menuid="517" data-missm-groupId="20121" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/guest/quejas-y-sugerencias">Quejas, sugerencias y felicitaciones</a>
+        </li>
+        </ul>
+        </li>
+        <li class="col-6" data-missm-menuid="1086" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/sede-electronica">Sede electrónica</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="498" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/el-ministerio/empleo-publico">Empleo Público</a>
+
+
+
+        <ul class="m-listBaseWrap">
+        <li data-missm-menuid="4990" data-missm-groupId="20121" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/guest/procesos-selectivos-de-personal-laboral-2025">Procesos selectivos de personal laboral</a>
+        </li>
+        </ul>
+        </li>
+        <li class="col-6" data-missm-menuid="794" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/brexit">Brexit. Derechos de los ciudadanos.</a>
+
+
+
+        <ul class="m-listBaseWrap">
+        <li data-missm-menuid="830" data-missm-groupId="20121" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/guest/brexit/residentes-y-trabajadores-en-espana">Residentes y trabajadores en España</a>
+        </li>
+        <li data-missm-menuid="832" data-missm-groupId="20121" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/guest/brexit/seguridad-social">Seguridad Social</a>
+        </li>
+        </ul>
+        </li>
+                </ul>
+            </div>
+
+            <div id="missmi-destacado-page-2" class="col-4 separador"></div>
+		</div>
+        </li>
+        <li class="nav-item dropdown position-static nav-item__missmTopLevel m-main-nav-desk__level1 has-children"
+            data-missm-menuid="311" data-missm-groupId="384697" data-missm-isGroup="true"
+        >
+            <div class="m-main-nav-desk">
+
+
+
+                <a class="nav-link dropdown-toggle no-blank" href="/web/inclusion/home" aria-haspopup="true" aria-expanded="false">
+                    Inclusión 
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Inclusión</button>
+            </div>
+
+        <div class="dropdown-menu w-100 missmi-submenu-container" role="menu">
+            <div class="col-8">
+                <ul class="row m-listBaseNoStyles">
+        <li class="col-6" data-missm-menuid="1110" data-missm-groupId="384697" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/inclusion/quienes-somos">¿Quiénes somos?</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="239" data-missm-groupId="384697" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/inclusion/ingreso-minimo-vital/que-es">IMV</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="3536" data-missm-groupId="384697" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/inclusion/que-es-el-capi">IMV - CAPI</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="3601" data-missm-groupId="384697" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/inclusion/datos-y-estadisticas">Datos y Estadísticas</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="999" data-missm-groupId="384697" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/inclusion/estudios">Estudios e Informes</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="3873" data-missm-groupId="384697" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/inclusion/laboratorio-de-politicas-de-inclusion">Laboratorio de Políticas de Inclusión</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="1095" data-missm-groupId="384697" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/inclusion/ingreso-minimo-vital">Más Información</a>
+
+
+
+        <ul class="m-listBaseWrap">
+        <li data-missm-menuid="241" data-missm-groupId="384697" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/inclusion/ingreso-minimo-vital/organos-de-gobernanza-imv">Organos de gobernanza del IMV</a>
+        </li>
+        <li data-missm-menuid="243" data-missm-groupId="384697" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/inclusion/ingreso-minimo-vital/registro-mediadores-sociales-imv">Registro de Mediadores sociales del IMV</a>
+        </li>
+        <li data-missm-menuid="3596" data-missm-groupId="384697" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/inclusion/sello-de-inclusion-social">Sello de Inclusión Social</a>
+        </li>
+        </ul>
+        </li>
+                </ul>
+            </div>
+
+            <div id="missmi-destacado-page-3" class="col-4 separador"></div>
+		</div>
+        </li>
+        <li class="nav-item dropdown position-static nav-item__missmTopLevel m-main-nav-desk__level1 has-children"
+            data-missm-menuid="324" data-missm-groupId="410010" data-missm-isGroup="true"
+        >
+            <div class="m-main-nav-desk">
+
+
+
+                <a class="nav-link dropdown-toggle no-blank" href="/web/seguridad-social/home" aria-haspopup="true" aria-expanded="false">
+                    Seguridad Social y Pensiones 
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Seguridad Social y Pensiones</button>
+            </div>
+
+        <div class="dropdown-menu w-100 missmi-submenu-container" role="menu">
+            <div class="col-8">
+                <ul class="row m-listBaseNoStyles">
+        <li class="col-6" data-missm-menuid="1112" data-missm-groupId="410010" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/seguridad-social/quienes-somos">¿Quiénes somos?</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="1097" data-missm-groupId="410010" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/seguridad-social/pensiones">Pensiones</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="1098" data-missm-groupId="410010" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/seguridad-social/altas-y-bajas">Altas y bajas</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="1099" data-missm-groupId="410010" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/seguridad-social/vida-laboral">Vida Laboral</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="1100" data-missm-groupId="410010" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/seguridad-social/autonomos">Autónomos</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="1101" data-missm-groupId="410010" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/seguridad-social/otras-prestaciones">Otras prestaciones</a>
+
+        </li>
+                </ul>
+            </div>
+
+            <div id="missmi-destacado-page-4" class="col-4 separador"></div>
+		</div>
+        </li>
+        <li class="nav-item dropdown position-static nav-item__missmTopLevel m-main-nav-desk__level1 has-children"
+            data-missm-menuid="342" data-missm-groupId="410169" data-missm-isGroup="true"
+        >
+            <div class="m-main-nav-desk">
+
+
+
+                <a class="nav-link dropdown-toggle no-blank" href="/web/migraciones/home" aria-haspopup="true" aria-expanded="false">
+                    Migraciones 
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Migraciones</button>
+            </div>
+
+        <div class="dropdown-menu w-100 missmi-submenu-container" role="menu">
+            <div class="col-8">
+                <ul class="row m-listBaseNoStyles">
+        <li class="col-6" data-missm-menuid="1114" data-missm-groupId="410169" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/migraciones/quienes-somos">¿Quiénes somos?</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="2151" data-missm-groupId="410169" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/migraciones/integracion">Integración</a>
+
+
+
+        <ul class="m-listBaseWrap">
+        <li data-missm-menuid="2283" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/prioridades-de-integracion">Prioridades de integración</a>
+        </li>
+        <li data-missm-menuid="2285" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/oberaxe">OBERAXE</a>
+        </li>
+        <li data-missm-menuid="2286" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/foro-para-la-integracion-social-de-los-inmigrantes-fisi">Foro para a Integración Social dos Inmigrantes</a>
+        </li>
+        </ul>
+        </li>
+        <li class="col-6" data-missm-menuid="2153" data-missm-groupId="410169" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/migraciones/vivir-en-espana">Vivir en España</a>
+
+
+
+        <ul class="m-listBaseWrap">
+        <li data-missm-menuid="2182" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/tipos-de-autorizacion">Tipos de autorización</a>
+        </li>
+        <li data-missm-menuid="2247" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/normativa">Normativa e instrucciones</a>
+        </li>
+        <li data-missm-menuid="1380" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/retorno-voluntario">Retorno voluntario</a>
+        </li>
+        <li data-missm-menuid="2173" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/informacion-util">Información útil</a>
+        </li>
+        <li data-missm-menuid="2254" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/informacion-de-contacto">Contacto</a>
+        </li>
+        </ul>
+        </li>
+        <li class="col-6" data-missm-menuid="2155" data-missm-groupId="410169" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/migraciones/vivir-en-el-extranjero">Vivir en el extranjero</a>
+
+
+
+        <ul class="m-listBaseWrap">
+        <li data-missm-menuid="2287" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/ciudadania">Portal de la Ciudadania Española en el Exterior</a>
+        </li>
+        <li data-missm-menuid="2288" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/cartaespana">Carta España</a>
+        </li>
+        </ul>
+        </li>
+        <li class="col-6" data-missm-menuid="2279" data-missm-groupId="410169" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/migraciones/sistema-de-acogida">Sistema de Acogida de Protección Internacional</a>
+
+
+
+        <ul class="m-listBaseWrap">
+        <li data-missm-menuid="2308" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/como-funciona">Cómo funciona y datos</a>
+        </li>
+        <li data-missm-menuid="2310" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/personas-destinatarias">Personas destinatarias</a>
+        </li>
+        <li data-missm-menuid="2312" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/entidades-colaboradoras1">Entidades colaboradoras</a>
+        </li>
+        <li data-missm-menuid="2314" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/reasentamiento-y-otros-programas">Reasentamiento y otros programas</a>
+        </li>
+        <li data-missm-menuid="4236" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/crcp-2024-2025">CRCP 2024-2025</a>
+        </li>
+        <li data-missm-menuid="2316" data-missm-groupId="410169" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/migraciones/iniciativas-para-la-insercion-laboral">Iniciativas para la inserción laboral</a>
+        </li>
+        </ul>
+        </li>
+        <li class="col-6" data-missm-menuid="2281" data-missm-groupId="410169" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/migraciones/atencion-humanitaria">Atención Humanitaria</a>
+
+
+
+        <ul class="m-listBaseWrap">
+        <li data-missm-menuid="4409" data-missm-groupId="1010119" data-missm-isGroup="true">
+            
+
+
+            <a class="enlace no-blank" href="https://ucraniaurgente.inclusion.gob.es/home">Ucrania Urgente</a>
+        </li>
+        </ul>
+        </li>
+        <li class="col-6" data-missm-menuid="2159" data-missm-groupId="410169" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/migraciones/estadisticas-opi">Estadísticas</a>
+
+        </li>
+                </ul>
+            </div>
+
+            <div id="missmi-destacado-page-5" class="col-4 separador"></div>
+		</div>
+        </li>
+        <li class="nav-item dropdown position-static nav-item__missmTopLevel m-main-nav-desk__level1 has-children"
+            data-missm-menuid="3685" data-missm-groupId="20121" data-missm-isGroup="false"
+        >
+            <div class="m-main-nav-desk">
+
+
+
+                <a class="nav-link dropdown-toggle no-blank" href="/web/guest/comunicacion" aria-haspopup="true" aria-expanded="false">
+                    Comunicación 
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Comunicación</button>
+            </div>
+
+        <div class="dropdown-menu w-100 missmi-submenu-container" role="menu">
+            <div class="col-8">
+                <ul class="row m-listBaseNoStyles">
+        <li class="col-6" data-missm-menuid="345" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/comunicacion/noticias">Noticias</a>
+
+
+
+        <ul class="m-listBaseWrap">
+        <li data-missm-menuid="859" data-missm-groupId="20121" data-missm-isGroup="false">
+            
+
+
+            <a class="enlace no-blank" href="/web/guest/comunicacion/noticias/buscador">Buscador</a>
+        </li>
+        </ul>
+        </li>
+        <li class="col-6" data-missm-menuid="347" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/comunicacion/redes-sociales">Redes Sociales</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="1106" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/comunicacion/videos">Multimedia</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="349" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/comunicacion/galeria">Galería</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="351" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/comunicacion/revistas">Revistas</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="1372" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/contacto">Contacto para periodistas</a>
+
+        </li>
+                </ul>
+            </div>
+
+            <div id="missmi-destacado-page-6" class="col-4 separador"></div>
+		</div>
+        </li>
+        <li class="nav-item dropdown position-static nav-item__missmTopLevel m-main-nav-desk__level1 has-children"
+            data-missm-menuid="353" data-missm-groupId="20121" data-missm-isGroup="false"
+        >
+            <div class="m-main-nav-desk">
+
+
+
+                <a class="nav-link dropdown-toggle no-blank" href="/web/guest/estadisticas" aria-haspopup="true" aria-expanded="false">
+                    Estadísticas 
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Estadísticas</button>
+            </div>
+
+        <div class="dropdown-menu w-100 missmi-submenu-container" role="menu">
+            <div class="col-8">
+                <ul class="row m-listBaseNoStyles">
+        <li class="col-6" data-missm-menuid="882" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/estadisticas-y-estudios/estadisticas/migraciones">Migraciones</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="883" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/estadisticas-y-estudios/estadisticas/empleo-y-mercado-laboral">Estadísticas de empleo y mercado laboral</a>
+
+        </li>
+        <li class="col-6" data-missm-menuid="885" data-missm-groupId="20121" data-missm-isGroup="false">
+
+
+
+            <a class="dropdown-item no-blank" href="/web/guest/estadisticas-y-estudios/estadisticas/pensiones-y-prestaciones">Estadísticas de pensiones y prestaciones</a>
+
+        </li>
+                </ul>
+            </div>
+
+            <div id="missmi-destacado-page-7" class="col-4 separador"></div>
+		</div>
+        </li>
+		</ul>
+    </div>
+</nav>
+
+
+<div id="themeGlobalMostViewedContents" class="d-none">
+            <div id="missmi-destacado-menu-1" class="missmi-destacado-menu">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article no" data-analytics-asset-id="566034" data-analytics-asset-title="Los mas consultados - Servicios Destacados" data-analytics-asset-type="web-content">
+			
+
+			
+    <p class="m-menuBuscados__title">Directo a</p>
+    <ul class="list-unstyled listaDestacada">
+            <li>
+
+
+
+                <a class="" data-senna-off="true" href="https://imv.seg-social.es/?_ga=2.161750908.1391223360.1655451978-830589611.1606408396">Ingreso Mínimo Vital</a>
+            </li>
+            <li>
+
+
+
+                <a class="" data-senna-off="true" href="https://www.seg-social.es/wps/portal/wss/internet/Pensionistas/Pensiones">Pensiones</a>
+            </li>
+    </ul>
+
+
+			
+		</div>
+
+		
+
+	
+
+
+            </div>
+            <div id="missmi-destacado-menu-2" class="missmi-destacado-menu">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article no" data-analytics-asset-id="566048" data-analytics-asset-title="Los mas consultados - El Ministerio" data-analytics-asset-type="web-content">
+			
+
+			
+    <p class="m-menuBuscados__title">Directo a</p>
+    <ul class="list-unstyled listaDestacada">
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/el-ministerio/quienes-somos">¿Quiénes somos?</a>
+            </li>
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/organizacion">Organización administrativa</a>
+            </li>
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/el-ministerio/el-ministerio-en-el-mundo">El Ministerio en el mundo</a>
+            </li>
+            <li>
+
+
+
+                <a class="" data-senna-off="true" href="https://sede.inclusion.gob.es">Sede electrónica</a>
+            </li>
+    </ul>
+
+
+			
+		</div>
+
+		
+
+	
+
+
+            </div>
+            <div id="missmi-destacado-menu-3" class="missmi-destacado-menu">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article no" data-analytics-asset-id="534115" data-analytics-asset-title="Inclusión" data-analytics-asset-type="web-content">
+			
+
+			<ul class="list-unstyled listaDestacada">
+	<li><a href="https://www.inclusion.gob.es/web/policy-lab">Laboratorio de Políticas de Inclusión</a></li>
+	<li><a href="https://sede.inclusion.gob.es/w/sello-de-inclusion-social">Sello de Inclusión Social</a></li>
+</ul>
+
+			
+		</div>
+
+		
+
+	
+
+
+            </div>
+            <div id="missmi-destacado-menu-4" class="missmi-destacado-menu">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article no" data-analytics-asset-id="566068" data-analytics-asset-title="Los mas consultados - Seguridad Social" data-analytics-asset-type="web-content">
+			
+
+			
+    <p class="m-menuBuscados__title">Directo a</p>
+    <ul class="list-unstyled listaDestacada">
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/web/seguridad-social">Seguridad Social</a>
+            </li>
+    </ul>
+
+
+			
+		</div>
+
+		
+
+	
+
+
+            </div>
+            <div id="missmi-destacado-menu-5" class="missmi-destacado-menu">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article no" data-analytics-asset-id="1344003" data-analytics-asset-title="Lo más consultado - Migraciones" data-analytics-asset-type="web-content">
+			
+
+			
+    <p class="m-menuBuscados__title">Directo a</p>
+    <ul class="list-unstyled listaDestacada">
+            <li>
+
+
+
+                <a class="" data-senna-off="true" href="https://www.emnspain.gob.es">Red Europea de Migraciones (REM-EMN)</a>
+            </li>
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="https://www.inclusion.gob.es/oberaxe/es/index.htm">OBERAXE</a>
+            </li>
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/web/fisi">Foro para la Integración Social de los Inmigrantes</a>
+            </li>
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/web/migraciones/fondos-europeos">Fondos Europeos</a>
+            </li>
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/web/migraciones/proyectos-de-migracion-regular">Proyectos de Migración Regular</a>
+            </li>
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="https://www.inclusion.gob.es/web/unidadgrandesempresas">Unidad de Grandes Empresas y Colectivos Estratégicos</a>
+            </li>
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/web/ciudadania/consejo-general-de-la-ciudadania-espanola-en-el-exterior">Consejo General de la Ciudadania Espanola en el Exterior</a>
+            </li>
+    </ul>
+
+
+			
+		</div>
+
+		
+
+	
+
+
+            </div>
+            <div id="missmi-destacado-menu-6" class="missmi-destacado-menu">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article no" data-analytics-asset-id="566088" data-analytics-asset-title="Los mas consultados - Comunicacion" data-analytics-asset-type="web-content">
+			
+
+			
+    <p class="m-menuBuscados__title">Directo a</p>
+    <ul class="list-unstyled listaDestacada">
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/comunicacion/noticias">Noticias</a>
+            </li>
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/comunicacion/redes-sociales">Redes Sociales</a>
+            </li>
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/comunicacion/videos">Multimedia</a>
+            </li>
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/comunicacion/galeria">Galería</a>
+            </li>
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/comunicacion/revistas">Revistas</a>
+            </li>
+    </ul>
+
+
+			
+		</div>
+
+		
+
+	
+
+
+            </div>
+            <div id="missmi-destacado-menu-7" class="missmi-destacado-menu">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article no" data-analytics-asset-id="566099" data-analytics-asset-title="Los mas consultados - Estadísticas" data-analytics-asset-type="web-content">
+			
+
+			
+    <p class="m-menuBuscados__title">Directo a</p>
+    <ul class="list-unstyled listaDestacada">
+            <li>
+
+
+
+                <a class=" no-blank" data-senna-off="true" href="/estadisticas">Estadísticas</a>
+            </li>
+    </ul>
+
+
+			
+		</div>
+
+		
+
+	
+
+
+            </div>
+</div>
+
+ <script>
+    $(document).ready(function() {
+        var menuItems = document.querySelectorAll('#missm-main-navigation-desk li.has-children');
+
+        for (var i = 0; i < menuItems.length; i++) {
+        menuItems[i].querySelector('.m-btn-menu').addEventListener("click",function(event){
+             var aux = this.parentNode.parentNode;
+            if(aux.querySelector('.nav-link').classList.contains('show')){
+                aux.querySelector('.dropdown-menu').classList.remove('show');
+                aux.querySelector('.nav-link').classList.remove('show');
+                aux.querySelector('a').setAttribute('aria-expanded', "false");
+                aux.querySelector('button').setAttribute('aria-expanded', "false");
+                aux.querySelector('button').classList.remove('active');
+                aux.classList.remove('active');
+            } else{
+               document.querySelectorAll('.dropdown-menu.show').forEach(function(element){
+                    element.classList.remove('show');
+                    element.parentNode.querySelector('a').setAttribute('aria-expanded', "false");
+                    element.parentNode.querySelector('button').setAttribute('aria-expanded', "false");
+                    element.parentNode.querySelector('button').classList.remove('active');
+                    element.parentNode.classList.remove('active');
+                });
+                aux.querySelector('.dropdown-menu').classList.add('show');
+                aux.querySelector('.nav-link').classList.add('show');
+                aux.querySelector('a').setAttribute('aria-expanded', "true");
+                aux.querySelector('button').setAttribute('aria-expanded', "true");
+                aux.querySelector('button').classList.add('active');
+                aux.classList.add('active');
+            }
+                event.preventDefault();
+            });
+        }
+                    $('.nav-link').click(function () {
+                        location.href = this.href;
+                    });
+
+        document.querySelectorAll('[id^="missmi-destacado-page-"]').forEach(function(element) {
+            let index = element.id.split("missmi-destacado-page-")[1];
+            if (document.getElementById("missmi-destacado-menu-" + index)) {
+                element.appendChild(document.getElementById("missmi-destacado-menu-" + index));
+            }
+        });
+
+        $(".m-main-nav-desk__level1.has-children").hover(
+            function () {
+                if ($(this).find(".m-btn-menu").attr("aria-expanded") != "true"){
+                    $(this).find(".m-btn-menu").trigger("click");
+                };
+            },
+            function () {
+                if ($(this).find(".m-btn-menu").attr("aria-expanded") == "true"){
+                    $(this).find(".m-btn-menu").trigger("click");
+                };
+            }
+        );
+
+        Liferay.on('allPortletsReady',
+            function() {
+                var forcedNameId=$('[data-missm-force-menuid]').first().data("missm-force-menuid");
+
+                var _checkAlreadyClass = function (){
+                    return ($(".nav-item__missmTopLevel.nav-item__missmUnderlined").length>0);
+                }
+                var _checkUnderlineMenu = function(el){
+                    if (typeof el != "undefined" && el.length>0 && !_checkAlreadyClass()){
+                        if (el.hasClass("nav-item__missmTopLevel")){
+                            el.addClass("nav-item__missmUnderlined");
+                        }else {
+                            el.parents(".nav-item__missmTopLevel").addClass("nav-item__missmUnderlined");
+                        }
+                    }
+                }
+                if (typeof forcedNameId != "undefined") {
+                    $("li[data-missm-menuid='"+forcedNameId+"']").each(function(){
+                        _checkUnderlineMenu($("li[data-missm-menuid='"+forcedNameId+"']"));
+                    });
+                }
+                _checkUnderlineMenu($("li[data-missm-menuid='"+Liferay.ThemeDisplay.getLayoutId()+"']"));
+                _checkUnderlineMenu($("li[data-missm-menuid='"+Liferay.ThemeDisplay.getParentLayoutId()+"']"));
+                _checkUnderlineMenu($("li[data-missm-groupid='"+Liferay.ThemeDisplay.getScopeGroupId()+"'][data-missm-isgroup='true']"));
+            }
+        );
+
+    });
+
+</script>
+
+			
+		</div>
+
+		
+
+	
+
+
+	</nav>
+</div>
+
+<div class="m-mobileNavigationWrapper hidden visuallyhidden">
+	<div class="m-wrapper-RRssMenu">
+		<div class="m-menuWrapper">
+			<div class="m-language-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+	<div class="fmmobile-language-selector">
+		<div class="language-picker language-picker--flags fmmobile-js-language-picker" data-trigger-class="btn btn--subtle js-tab-focus">
+			<form action="" class="language-picker__form">
+				<label for="fmmobile-language-picker-select">Selecciona tu idioma</label>
+				<select name="fmmobile-language-picker-select" id="fmmobile-language-picker-select">
+						<option lang="es-ES" value="es_ES"  selected  >Castellano</option>
+						<option lang="ca-ES" value="ca_ES"  >Català</option>
+						<option lang="eu-ES" value="eu_ES"  >Euskara</option>
+						<option lang="gl-ES" value="gl_ES"  >Galego</option>
+						<option lang="en-US" value="en_US"  >English</option>
+						<option lang="fr-FR" value="fr_FR"  >Français</option>
+				</select>
+			</form>
+		</div>
+	</div>
+
+	<script>
+		var fmmobileLanguagePicker = function(element) {
+			this.element = element;
+			this.select = this.element.getElementsByTagName('select')[0];
+			this.options = this.select.getElementsByTagName('option');
+			this.selectedOption = fmmobilegetSelectedOptionText(this);
+			this.pickerId = this.select.getAttribute('id');
+			this.trigger = false;
+			this.dropdown = false;
+			this.firstLanguage = false;
+
+			// dropdown arrow inside the button element
+			//this.arrowSvgPath = '<svg viewBox="0 0 16 16"><polygon points="3,5 8,11 13,5 "></polygon></svg>';
+			//this.globeSvgPath = '<svg viewBox="0 0 16 16"><path d="M8,0C3.6,0,0,3.6,0,8s3.6,8,8,8s8-3.6,8-8S12.4,0,8,0z M13.9,7H12c-0.1-1.5-0.4-2.9-0.8-4.1 C12.6,3.8,13.6,5.3,13.9,7z M8,14c-0.6,0-1.8-1.9-2-5H10C9.8,12.1,8.6,14,8,14z M6,7c0.2-3.1,1.3-5,2-5s1.8,1.9,2,5H6z M4.9,2.9 C4.4,4.1,4.1,5.5,4,7H2.1C2.4,5.3,3.4,3.8,4.9,2.9z M2.1,9H4c0.1,1.5,0.4,2.9,0.8,4.1C3.4,12.2,2.4,10.7,2.1,9z M11.1,13.1 c0.5-1.2,0.7-2.6,0.8-4.1h1.9C13.6,10.7,12.6,12.2,11.1,13.1z"></path></svg>';
+
+			fmmobileinitLanguagePicker(this);
+			fmmobileinitLanguagePickerEvents(this);
+		};
+
+		function fmmobileinitLanguagePicker(picker) {
+			// create the HTML for the custom dropdown element
+			picker.element.insertAdjacentHTML('beforeend', fmmobileinitButtonPicker(picker) + fmmobileinitListPicker(picker));
+			
+			// save picker elements
+			picker.dropdown = picker.element.getElementsByClassName('language-picker__dropdown')[0];
+			picker.languages = picker.dropdown.getElementsByClassName('language-picker__item');
+			picker.firstLanguage = picker.languages[0];
+			picker.trigger = picker.element.getElementsByClassName('language-picker__button')[0];
+		};
+
+		function fmmobileinitLanguagePickerEvents(picker) {
+			// language selection in dropdown
+			fmmobileinitLanguageSelection(picker);
+
+			// click events
+			picker.trigger.addEventListener('click', function(){
+				fmmobiletoggleLanguagePicker(picker, false);
+			});
+			// keyboard navigation
+			picker.dropdown.addEventListener('keydown', function(event){
+				if(event.keyCode && event.keyCode == 38 || event.key && event.key.toLowerCase() == 'arrowup') {
+					fmmobilekeyboardNavigatePicker(picker, 'prev');
+				} else if(event.keyCode && event.keyCode == 40 || event.key && event.key.toLowerCase() == 'arrowdown') {
+					fmmobilekeyboardNavigatePicker(picker, 'next');
+				}
+			});
+		};
+
+		function fmmobiletoggleLanguagePicker(picker, bool) {
+			var ariaExpanded;
+			if(bool) {
+				ariaExpanded = bool;
+			} else {
+				ariaExpanded = picker.trigger.getAttribute('aria-expanded') == 'true' ? 'false' : 'true';
+			}
+			picker.trigger.setAttribute('aria-expanded', ariaExpanded);
+			if(ariaExpanded == 'true') {
+				picker.firstLanguage.focus(); // fallback if transition is not supported
+				picker.dropdown.addEventListener('transitionend', function cb(){
+					picker.firstLanguage.focus();
+					picker.dropdown.removeEventListener('transitionend', cb);
+				});
+				// place dropdown
+				fmmobileplaceDropdown(picker);
+			}
+		};
+
+		function fmmobileplaceDropdown(picker) {
+			var triggerBoundingRect = picker.trigger.getBoundingClientRect();
+			fmmobiletoggleClass(picker.dropdown, 'language-picker__dropdown--right', (window.innerWidth < triggerBoundingRect.left + picker.dropdown.offsetWidth));
+			fmmobiletoggleClass(picker.dropdown, 'language-picker__dropdown--up', (window.innerHeight < triggerBoundingRect.bottom + picker.dropdown.offsetHeight));
+		};
+
+		function fmmobilecheckLanguagePickerClick(picker, target) { // if user clicks outside the language picker -> close it
+			if( !picker.element.contains(target) ) fmmobiletoggleLanguagePicker(picker, 'false');
+		};
+
+		function fmmobilemoveFocusToPickerTrigger(picker) {
+			if(picker.trigger.getAttribute('aria-expanded') == 'false') return;
+			if(document.activeElement.closest('.language-picker__dropdown') == picker.dropdown) picker.trigger.focus();
+		};
+
+		function fmmobileinitButtonPicker(picker) { // create the button element -> picker trigger
+			// check if we need to add custom classes to the button trigger
+			var customClasses = picker.element.getAttribute('data-trigger-class') ? ' '+picker.element.getAttribute('data-trigger-class') : '';
+		
+			var button = '<button class="language-picker__button'+customClasses+'" aria-label="'+picker.select.value+' '+picker.element.getElementsByTagName('label')[0].textContent+'" aria-expanded="false" aria-controls="'+picker.pickerId+'-dropdown">';
+			button = button + '<span aria-hidden="true" class="language-picker__label language-picker__flag language-picker__flag--'+picker.select.value+'">'/*+picker.globeSvgPath*/+picker.selectedOption;
+			button = button /*+picker.arrowSvgPath*/+'</span><span class="m-arrow-down"></span>';
+			return button+'</button>';
+		};
+
+		function fmmobileinitListPicker(picker) { // create language picker dropdown
+			var list = '<div class="language-picker__dropdown" aria-describedby="'+picker.pickerId+'-description" id="'+picker.pickerId+'-dropdown">';
+			list = list + '<p class="sr-only" id="'+picker.pickerId+'-description">'+picker.element.getElementsByTagName('label')[0].textContent+'</p>';
+			list = list + '<ul class="language-picker__list" role="listbox">';
+			for(var i = 0; i < picker.options.length; i++) {
+				var selected = picker.options[i].selected ? ' aria-selected="true"' : '', language = picker.options[i].getAttribute('lang');
+				list = list + '<li><a lang="'+language+'" hreflang="'+language+'" href="'+fmmobilegetLanguageUrl(picker.options[i])+'"'+selected+' role="option" data-value="'+picker.options[i].value+'" class="language-picker__item language-picker__flag language-picker__flag--'+picker.options[i].value+'"><span>'+picker.options[i].text+'</span></a></li>';
+			};
+			return list;
+		};
+
+		function fmmobilegetSelectedOptionText(picker) { // used to initialize the label of the picker trigger button
+			var label = '';
+			if('selectedIndex' in picker.select) {
+				label = picker.options[picker.select.selectedIndex].text;
+			} else {
+				label = picker.select.querySelector('option[selected]').text;
+			}
+			return label;
+		};
+
+		function fmmobilegetLanguageUrl(option) {
+			return "/c/portal/update_language?p_l_id=2149&redirect=%2Fweb%2Fmigraciones%2Fhomedocuments%2F387478%2F1569992%2FanexoIII.pdf%2F93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6%3Ft%3D1718896277947&languageId=" + option.value;
+		};
+
+		function fmmobileinitLanguageSelection(picker) {
+			picker.element.getElementsByClassName('language-picker__list')[0].addEventListener('click', function(event){
+				var language = event.target.closest('.language-picker__item');
+				if(!language) return;
+				
+				if(language.hasAttribute('aria-selected') && language.getAttribute('aria-selected') == 'true') {
+					// selecting the same language
+					event.preventDefault();
+					picker.trigger.setAttribute('aria-expanded', 'false'); // hide dropdown
+				} else { 
+					// ⚠️ Important: this 'else' code needs to be removed in production. 
+					// The user has to be redirected to the new url -> nothing to do here
+					/* event.preventDefault();
+					picker.element.getElementsByClassName('language-picker__list')[0].querySelector('[aria-selected="true"]').removeAttribute('aria-selected');
+					language.setAttribute('aria-selected', 'true');
+					picker.trigger.getElementsByClassName('language-picker__label')[0].setAttribute('class', 'language-picker__label language-picker__flag language-picker__flag--'+language.getAttribute('data-value'));
+					picker.trigger.getElementsByClassName('language-picker__label')[0].getElementsByTagName('em')[0].textContent = language.textContent;
+					picker.trigger.setAttribute('aria-expanded', 'false'); */
+				}
+			});
+		};
+
+		function fmmobilekeyboardNavigatePicker(picker, direction) {
+			var index = Array.prototype.indexOf.call(picker.languages, document.activeElement);
+			index = (direction == 'next') ? index + 1 : index - 1;
+			if(index < 0) index = picker.languages.length - 1;
+			if(index >= picker.languages.length) index = 0;
+			fmmobilemoveFocus(picker.languages[index]);
+		};
+
+		function fmmobileaddClass(el, className) {
+			var classList = className.split(' ');
+			el.classList.add(classList[0]);
+			if (classList.length > 1) fmmobileaddClass(el, classList.slice(1).join(' '));
+		};
+
+		function fmmobileremoveClass(el, className) {
+			var classList = className.split(' ');
+			el.classList.remove(classList[0]);	
+			if (classList.length > 1) fmmobileremoveClass(el, classList.slice(1).join(' '));
+		};
+		
+		function fmmobiletoggleClass(el, className, bool) {
+			if(bool) fmmobileaddClass(el, className);
+			else fmmobileremoveClass(el, className);
+		};
+
+		function fmmobilemoveFocus(element) {
+			if( !element ) element = document.getElementsByTagName("body")[0];
+			element.focus();
+			if (document.activeElement !== element) {
+				element.setAttribute('tabindex','-1');
+				element.focus();
+			}
+		};
+
+		//initialize the LanguagePicker objects
+		var fmmobilePicker = document.getElementsByClassName('fmmobile-js-language-picker');
+		if (fmmobilePicker.length > 0) {
+			var fmmobilepickerArray = [];
+			for( var i = 0; i < fmmobilePicker.length; i++) {
+				(function(i){fmmobilepickerArray.push(new fmmobileLanguagePicker(fmmobilePicker[i]));})(i);
+			}
+
+			// listen for key events
+			window.addEventListener('keyup', function(event){
+				if( event.keyCode && event.keyCode == 27 || event.key && event.key.toLowerCase() == 'escape' ) {
+					// close language picker on 'Esc'
+					fmmobilepickerArray.forEach(function(element){
+						fmmobilemoveFocusToPickerTrigger(element); // if focus is within dropdown, move it to dropdown trigger
+						fmmobiletoggleLanguagePicker(element, 'false'); // close dropdown
+					});
+				} 
+			});
+			// close language picker when clicking outside it
+			window.addEventListener('click', function(event){
+				fmmobilepickerArray.forEach(function(element){
+					fmmobilecheckLanguagePickerClick(element, event.target);
+				});
+			});
+		}
+	</script>
+
+	<style>
+	
+
+		:root {
+			--picker-vertical-gap: 4px;
+		}
+
+		.language-picker {
+			display: inline-block;
+			position: relative;
+		}
+
+		.language-picker__form {
+			display: none;
+		}
+
+		.language-picker__button .icon {
+			height: 1rem;
+			width: 1rem;
+		}
+		.language-picker__dropdown {
+			position: absolute;
+			left: 0;
+			top: 100%;
+			min-width: 8.75rem;
+			background-color: white;
+			box-shadow: rgba(255, 255, 255, 0.075) 0px 0px 0.5px 1px inset, rgba(0, 0, 0, 0.03) 0px 0.9px 1.5px 0px, rgba(0, 0, 0, 0.08) 0px 3.1px 5.5px 0px, rgba(0, 0, 0, 0.12) 0px 14px 25px 0px;
+			/*border-left-color rgb(50, 54, 57);
+            border-left-style none;
+            border-left-width 0px;
+            border-right-color rgb(50, 54, 57);
+            border-right-style none;
+            border-right-width 0px;
+            border-top-color rgb(50, 54, 57);*/
+            margin: 0;
+			z-index: 5;
+			font-size: 1rem;
+            color: #1D1D1B;
+			visibility: hidden;
+			opacity: 0;
+			transition: visibility 0s 0.2s, opacity 0.2s;
+            padding: 0;
+            border-radius: 4px;
+		}
+
+		.language-picker__dropdown--right {
+			right: 0;
+			left: auto;
+		}
+
+		.language-picker__dropdown--up {
+			bottom: 100%;
+			top: auto;
+		}
+
+		.language-picker__button[aria-expanded=true] + .language-picker__dropdown {
+			visibility: visible;
+			opacity: 1;
+			transition: visibility 0s, opacity 0.2s;
+		}
+
+		.language-picker__item {
+			display: flex;
+			align-items: center;
+			text-decoration: none;
+			padding: 0.5rem;
+			color: #1D1D1B !Important;
+			transition: background 0.2s;
+			text-decoration: none !important;
+		}
+		.language-picker__item span {
+			white-space: nowrap;
+			overflow: hidden;
+			text-overflow: ellipsis;
+		}
+		.language-picker__item:hover {
+			background-color: rgba(13, 19, 23, 0.075);
+			color: #1D1D1B !Important;
+		}
+	
+		.language-picker__item[aria-selected=true] {
+			position: relative;
+			background-color: #a8c7ff;
+			color: white;
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
+		}
+	
+		.language-picker__item[aria-selected=true]::after {
+			content: "";
+			height: 16px;
+			width: 16px;
+			background-color: currentColor;
+			-webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpolyline stroke-width='2' stroke='%23ffffff' fill='none' stroke-linecap='round' stroke-linejoin='round' points='1,9 5,13 15,3 '/%3E%3C/svg%3E");
+					mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpolyline stroke-width='2' stroke='%23ffffff' fill='none' stroke-linecap='round' stroke-linejoin='round' points='1,9 5,13 15,3 '/%3E%3C/svg%3E");
+			margin-left: auto;
+		}
+
+		.language-picker__flag {
+			display: flex;
+			align-items: center;
+		}
+		.language-picker__button {
+			display: flex;
+			align-items: center;
+			padding: 0.5rem;
+			color: #1D1D1B;
+		}
+		.m-arrow-down {
+			background: url("/o/missmi-theme/images/icons/reusable/angle-circle-down.svg") no-repeat;
+			background-position: center center;
+			background-size: 1rem;
+			height: 21px;
+			width: 1.5rem;
+			border: none;
+			background-color: transparent;
+			transform: rotate(0);
+			transition-duration: 300ms;
+		}
+	
+		.language-picker--flags .language-picker__button .icon:first-of-type {
+			display: none;
+		}
+
+		.language-picker--hide-label .language-picker__button .icon {
+			margin-left: 0;
+		}
+		.language-picker--hide-label .language-picker__button .icon:first-of-type {
+			display: none;
+		}
+		.language-picker--hide-label .language-picker__button  {
+			display: none;
+		}
+		.language-picker--hide-label .language-picker__button .language-picker__flag::before {
+			margin-right: var(--space-xxxs);
+		}
+		.language-picker__list {
+			list-style: none;
+			padding-left: 0;
+            background-color: white;
+            margin: 0;
+            padding: 0;
+            border: 0;
+			font-size: 0.875rem;
+			border-radius: 6px;
+		}
+		.language-picker__list li {
+			margin-bottom: 0 !important;
+		}
+	</style>
+
+</div>
+
+			<button id="m-closeButton" aria-label="Cerrar" class="btn flex-shrink-0 m-closeButton" type="button">
+				<svg class="lexicon-icon m-close"><use xlink:href="https://www.inclusion.gob.es/o/missmi-theme/images/lexicon/icons.svg#times" /></svg>
+			</button>
+		</div>
+
+		<nav aria-label="Main Navigation">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article no" data-analytics-asset-id="438010" data-analytics-asset-title="Menú" data-analytics-asset-type="web-content">
+			
+
+			
+<div id="missm-main-navigation" aria-label="Abrir búsqueda">
+        <ul class="m-main-nav__level1 slide-in-top">
+        <li class="m-main-nav__level1__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level1__link no-blank" href="/web/guest/tramites-destacados" target="">
+                    Trámites Destacados
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Trámites Destacados</button>
+            </div>
+
+        <ul class="m-main-nav__level2 slide-in-top">
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/tramites/pensiones" target="">
+                    Pensiones
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/tramites/altas-bajas-seguridad-social" target="">
+                    Altas y bajas de la Seguridad Social
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/tramites/ayudas" target="">
+                    Ayudas
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/ingreso-minimo-vital" target="">
+                    Ingreso Mínimo Vital / Complemento de Ayuda a la Infancia (CAPI)
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level1__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level1__link no-blank" href="/web/guest/el-ministerio" target="">
+                    El Ministerio
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  El Ministerio</button>
+            </div>
+
+        <ul class="m-main-nav__level2 slide-in-top">
+        <li class="m-main-nav__level2__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/el-ministerio/quienes-somos" target="">
+                    ¿Quiénes somos?
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  ¿Quiénes somos?</button>
+            </div>
+
+        <ul class="m-main-nav__level3 slide-in-top">
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/guest/el-ministro" target="">
+                    La Ministra
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/guest/el-ministerio/biografias" target="">
+                    Biografías
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level2__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/organizacion" target="">
+                    Organización administrativa
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Organización administrativa</button>
+            </div>
+
+        <ul class="m-main-nav__level3 slide-in-top">
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/guest/organizacion/se-migraciones" target="">
+                    S.E. de Migraciones
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/guest/organizacion/se-seguridad-social-pensiones" target="">
+                    S.E. de la Seguridad Social y Pensiones
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/guest/organizacion/sg-inclusion" target="">
+                    S.G. de Inclusión
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/guest/organizacion/subsecretaria" target="">
+                    Subsecretaría de Inclusión, Seguridad Social y Migraciones
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/el-ministerio/el-ministerio-en-el-mundo" target="">
+                    El Ministerio en el mundo
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/el-ministerio/atencion-al-ciudadano" target="">
+                    Atención al ciudadano
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Atención al ciudadano</button>
+            </div>
+
+        <ul class="m-main-nav__level3 slide-in-top">
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/guest/canal-interno-informacion" target="">
+                    Canal Interno Información
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/guest/quejas-y-sugerencias" target="">
+                    Quejas, sugerencias y felicitaciones
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/sede-electronica" target="">
+                    Sede electrónica
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/el-ministerio/empleo-publico" target="">
+                    Empleo Público
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Empleo Público</button>
+            </div>
+
+        <ul class="m-main-nav__level3 slide-in-top">
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/guest/procesos-selectivos-de-personal-laboral-2025" target="">
+                    Procesos selectivos de personal laboral
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level2__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/brexit" target="">
+                    Brexit. Derechos de los ciudadanos.
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Brexit. Derechos de los ciudadanos.</button>
+            </div>
+
+        <ul class="m-main-nav__level3 slide-in-top">
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/guest/brexit/residentes-y-trabajadores-en-espana" target="">
+                    Residentes y trabajadores en España
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/guest/brexit/seguridad-social" target="">
+                    Seguridad Social
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level1__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level1__link no-blank" href="/web/inclusion/home" target="">
+                    Inclusión
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Inclusión</button>
+            </div>
+
+        <ul class="m-main-nav__level2 slide-in-top">
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/inclusion/quienes-somos" target="">
+                    ¿Quiénes somos?
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/inclusion/ingreso-minimo-vital/que-es" target="">
+                    IMV
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/inclusion/que-es-el-capi" target="">
+                    IMV - CAPI
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/inclusion/datos-y-estadisticas" target="">
+                    Datos y Estadísticas
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/inclusion/estudios" target="">
+                    Estudios e Informes
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/inclusion/laboratorio-de-politicas-de-inclusion" target="">
+                    Laboratorio de Políticas de Inclusión
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/inclusion/ingreso-minimo-vital" target="">
+                    Más Información
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Más Información</button>
+            </div>
+
+        <ul class="m-main-nav__level3 slide-in-top">
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/inclusion/ingreso-minimo-vital/organos-de-gobernanza-imv" target="">
+                    Organos de gobernanza del IMV
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/inclusion/ingreso-minimo-vital/registro-mediadores-sociales-imv" target="">
+                    Registro de Mediadores sociales del IMV
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/inclusion/sello-de-inclusion-social" target="">
+                    Sello de Inclusión Social
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level1__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level1__link no-blank" href="/web/seguridad-social/home" target="">
+                    Seguridad Social y Pensiones
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Seguridad Social y Pensiones</button>
+            </div>
+
+        <ul class="m-main-nav__level2 slide-in-top">
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/seguridad-social/quienes-somos" target="">
+                    ¿Quiénes somos?
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/seguridad-social/pensiones" target="">
+                    Pensiones
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/seguridad-social/altas-y-bajas" target="">
+                    Altas y bajas
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/seguridad-social/vida-laboral" target="">
+                    Vida Laboral
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/seguridad-social/autonomos" target="">
+                    Autónomos
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/seguridad-social/otras-prestaciones" target="">
+                    Otras prestaciones
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level1__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level1__link no-blank" href="/web/migraciones/home" target="">
+                    Migraciones
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Migraciones</button>
+            </div>
+
+        <ul class="m-main-nav__level2 slide-in-top">
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/migraciones/quienes-somos" target="">
+                    ¿Quiénes somos?
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/migraciones/integracion" target="">
+                    Integración
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Integración</button>
+            </div>
+
+        <ul class="m-main-nav__level3 slide-in-top">
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/prioridades-de-integracion" target="">
+                    Prioridades de integración
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/oberaxe" target="">
+                    OBERAXE
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/foro-para-la-integracion-social-de-los-inmigrantes-fisi" target="">
+                    Foro para a Integración Social dos Inmigrantes
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level2__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/migraciones/vivir-en-espana" target="">
+                    Vivir en España
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Vivir en España</button>
+            </div>
+
+        <ul class="m-main-nav__level3 slide-in-top">
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/tipos-de-autorizacion" target="">
+                    Tipos de autorización
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/normativa" target="">
+                    Normativa e instrucciones
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/retorno-voluntario" target="">
+                    Retorno voluntario
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/informacion-util" target="">
+                    Información útil
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/informacion-de-contacto" target="">
+                    Contacto
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level2__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/migraciones/vivir-en-el-extranjero" target="">
+                    Vivir en el extranjero
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Vivir en el extranjero</button>
+            </div>
+
+        <ul class="m-main-nav__level3 slide-in-top">
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/ciudadania" target="">
+                    Portal de la Ciudadania Española en el Exterior
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/cartaespana" target="">
+                    Carta España
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level2__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/migraciones/sistema-de-acogida" target="">
+                    Sistema de Acogida de Protección Internacional
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Sistema de Acogida de Protección Internacional</button>
+            </div>
+
+        <ul class="m-main-nav__level3 slide-in-top">
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/como-funciona" target="">
+                    Cómo funciona y datos
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/personas-destinatarias" target="">
+                    Personas destinatarias
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/entidades-colaboradoras1" target="">
+                    Entidades colaboradoras
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/reasentamiento-y-otros-programas" target="">
+                    Reasentamiento y otros programas
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/crcp-2024-2025" target="">
+                    CRCP 2024-2025
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/migraciones/iniciativas-para-la-insercion-laboral" target="">
+                    Iniciativas para la inserción laboral
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level2__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/migraciones/atencion-humanitaria" target="">
+                    Atención Humanitaria
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Atención Humanitaria</button>
+            </div>
+
+        <ul class="m-main-nav__level3 slide-in-top">
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="https://ucraniaurgente.inclusion.gob.es/home" target="">
+                    Ucrania Urgente
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/migraciones/estadisticas-opi" target="">
+                    Estadísticas
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level1__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level1__link no-blank" href="/web/guest/comunicacion" target="">
+                    Comunicación
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Comunicación</button>
+            </div>
+
+        <ul class="m-main-nav__level2 slide-in-top">
+        <li class="m-main-nav__level2__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/comunicacion/noticias" target="">
+                    Noticias
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Noticias</button>
+            </div>
+
+        <ul class="m-main-nav__level3 slide-in-top">
+        <li class="m-main-nav__level3__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level3__link no-blank" href="/web/guest/comunicacion/noticias/buscador" target="">
+                    Buscador
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/comunicacion/redes-sociales" target="">
+                    Redes Sociales
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/comunicacion/videos" target="">
+                    Multimedia
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/comunicacion/galeria" target="">
+                    Galería
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/comunicacion/revistas" target="">
+                    Revistas
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/contacto" target="">
+                    Contacto para periodistas
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        <li class="m-main-nav__level1__item has-submenu">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level1__link no-blank" href="/web/guest/estadisticas" target="">
+                    Estadísticas
+                </a>
+
+                    <button class="m-btn-menu"><span class="sr-only">mostrar submenu  Estadísticas</button>
+            </div>
+
+        <ul class="m-main-nav__level2 slide-in-top">
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/estadisticas-y-estudios/estadisticas/migraciones" target="">
+                    Migraciones
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/estadisticas-y-estudios/estadisticas/empleo-y-mercado-laboral" target="">
+                    Estadísticas de empleo y mercado laboral
+                </a>
+
+            </div>
+
+        </li>
+        <li class="m-main-nav__level2__item">
+            <div class="m-wrapperLevel">
+
+
+
+                <a class="m-main-nav__level2__link no-blank" href="/web/guest/estadisticas-y-estudios/estadisticas/pensiones-y-prestaciones" target="">
+                    Estadísticas de pensiones y prestaciones
+                </a>
+
+            </div>
+
+        </li>
+        </ul>
+        </li>
+        </ul>
+</div>
+
+
+<script>
+
+    $( document ).ready(function() {
+        $('#missm-main-navigation button.m-btn-menu').on("click", function(e){
+            var liElement = $($(this).closest("li"));
+            if (liElement.hasClass("open")) {
+                liElement.removeClass("open");
+                $(liElement.find("a").first()).attr("aria-expanded", "false").removeClass("link_active");;
+                $(liElement.find("button").first()).attr("aria-expanded", "false");
+            } else {
+                liElement.addClass("open");
+                liElement.find("a").first().attr("aria-expanded", "true").addClass("link_active");
+                liElement.find("button").first().attr("aria-expanded", "true");
+            }
+            e.preventDefault();
+        });
+    });
+</script>
+
+			
+		</div>
+
+		
+
+	
+
+
+		</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article no" data-analytics-asset-id="616028" data-analytics-asset-title="Contenido redes sociales" data-analytics-asset-type="web-content">
+			
+
+			<ul class="m-logos-rrss m-listBase">
+	<li><a class="m-logos-rrss__item icon-facebook icon-2x text-white" href="https://www.facebook.com/Ministerio-de-Inclusi%C3%B3n-Seguridad-Social-y-Migraciones-111628541180812" target="_blank"><span class="sr-only">twitter</span> </a></li>
+	<li><a class="m-logos-rrss__item icon-twitter icon-2x text-white" href="https://twitter.com/inclusiongob" target="_blank"><span class="sr-only">twitter</span> </a></li>
+	<li><a class="m-logos-rrss__item icon-instagram icon-2x text-white" href="https://www.instagram.com/inclusiongob/" target="_blank"><span class="sr-only">Instagram</span> </a></li>
+	<li><a class="m-logos-rrss__item icon-youtube-play icon-2x text-white" href="https://www.youtube.com/channel/UCQqBgvKPF4qmGa49GYH_TbQ" target="_blank"><span class="sr-only">youtube</span> </a> &nbsp;</li>
+	<li><a class="m-logos-rrss__item icon-linkedin-sign icon-2x  text-white" href="https://www.linkedin.com/company/ministerio-de-inclusión-seguridad-social-y-migraciones/" target="_blank"><span class="sr-only">linkedin</span> </a></li>
+</ul>
+
+			
+		</div>
+
+		
+
+	
+
+
+	</div>
+</div>
+
+<div class="m-searchWrapper">
+	<div class="m-search-form-tablet w-100">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_  portlet-static portlet-static-end portlet-barebone portlet-search-bar " id="p_p_id_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_">
+		<span id="p_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<section class="portlet" id="portlet_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<p role="presentation" class="portlet-title-text">Barra de búsqueda</p>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://www.inclusion.gob.es/web/migraciones/buscar" class="form  " data-fm-namespace="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_" id="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_fm" method="get" name="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_fm" >
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<input  class="field form-control"  id="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_formDate"    name="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_formDate"     type="hidden" value="1749820110727"   />
+			
+		
+
+		
+	
+
+
+
+
+
+
+
+
+
+			
+
+			
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+					
+					
+						<div class="search-bar">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<input  class="field search-bar-empty-search-input form-control"  id="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_emptySearchEnabled"    name="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_emptySearchEnabled"     type="hidden" value="false"   />
+			
+		
+
+		
+	
+
+
+
+
+
+
+
+
+
+
+							<div class="input-group search-bar-simple">
+								
+									
+									
+										<div class="input-group-item search-bar-keywords-input-wrapper">
+											<input aria-label="Buscar" autocomplete="off" class="form-control input-group-inset input-group-inset-after search-bar-keywords-input" data-qa-id="searchInput" id="wfkm___q" name="q" placeholder="Búsqueda…" title="Buscar" type="text" value="" />
+
+											
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				<input  class="field form-control"  id="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_scope"    name="_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_scope"     type="hidden" value=""   />
+			
+		
+
+		
+	
+
+
+
+
+
+
+
+
+
+
+											<div class="input-group-inset-item input-group-inset-item-after">
+												<button class="btn btn-monospaced btn-unstyled" type="submit" aria-label="Buscar" ><span class="inline-item"><svg class="lexicon-icon lexicon-icon-search" role="presentation" viewBox="0 0 512 512"><use xlink:href="https://www.inclusion.gob.es/o/missmi-theme/images/clay/icons.svg#search" /></svg></span></button>
+											</div>
+										</div>
+									
+								
+							</div>
+						</div>
+					
+				
+			
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+</form>
+
+
+
+<script>
+AUI().use(
+  'liferay-form',
+function(A) {
+(function() {
+var $ = AUI.$;var _ = AUI._;
+	Liferay.Form.register(
+		{
+			id: '_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_fm'
+
+			
+				, fieldRules: [
+
+					
+
+				]
+			
+
+			
+
+			, validateOnBlur: true
+		}
+	);
+
+	var onDestroyPortlet = function(event) {
+		if (event.portletId === 'com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile') {
+			delete Liferay.Form._INSTANCES['_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_fm'];
+		}
+	};
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	
+
+	Liferay.fire(
+		'_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_formReady',
+		{
+			formName: '_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_fm'
+		}
+	);
+})();
+});
+
+</script>
+
+		<script>
+AUI().use(
+  'liferay-search-bar',
+  'aui-base',
+function(A) {
+(function() {
+var $ = AUI.$;var _ = AUI._;
+			if (!A.one('#_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_reactSearchBar')) {
+				new Liferay.Search.SearchBar(A.one('#_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_fm'));
+			}
+		
+})();
+});
+
+</script>
+	
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+	</div>
+</div>
+<section id="content">
+	<h1 class="sr-only">Home - Migraciones</h1>
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<link data-senna-track="temporary" href="/o/layout-common-styles/main.css?plid=5092&segmentsExperienceId=6668196&t=1747134031390" rel="stylesheet" type="text/css" />
+
+	
+
+		
+
+		
+
+		<div class="lfr-layout-structure-item-031e63d2-c6a4-c221-d9ab-78922d9465b5 lfr-layout-structure-item-container  container-fluid container-fluid-max-xl" style="">
+ <div class="lfr-layout-structure-item-error-404 lfr-layout-structure-item-cb3ca444-48ed-e1fd-ba6e-b44293330c6d " style="">
+  <div id="fragment-ef8643c5-71b0-37e7-8598-09cb463b79a4">
+   <div class="custom-fragment-container">
+    <div><img src="/documents/d/global/404_logo_missm" alt="logo404">
+    </div>
+    <h2 class="fragment-title">Error 404 – Página no encontrada</h2>
+    <div class="fragment-content">
+     <p class="fragment-content-text">La página que intenta visualizar no está disponible.</p>
+     <p class="fragment-content-text">Es posible que la dirección sea incorrecta, que el contenido haya sido eliminado o que haya sido trasladado a otra ubicación.</p>
+     <p class="fragment-content-text">Por favor, verifique la URL o regrese a la <a data-lfr-editable-id="link" data-lfr-editable-type="link" href="/web/migraciones/home">página principal</a> para continuar navegando por el sitio.</p>
+    </div>
+   </div>
+  </div>
+  <style>.custom-fragment-container {
+  padding-top: 48px;
+  padding-bottom: 96px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.fragment-title {
+  margin-top: 24px;
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+
+.fragment-content {
+  margin-top: 24px;
+  font-size: 1rem;
+	text-align: center;
+}
+
+.fragment-content-text {
+   margin-bottom: 0px;
+}</style>
+ </div>
+</div>
+
+	
+
+
+
+			
+			
+	
+	</section><footer id="footer" class="m-footer" role="contentinfo">
+    <div class="container-fluid m-bg-wrapper">
+    	<div id="" class="row">
+    		<div id="m-logosText" class="col-12 col-xl-4 m-colHeightLogo">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article no" data-analytics-asset-id="420634" data-analytics-asset-title="Contenido logo Footer" data-analytics-asset-type="web-content">
+			
+
+			<div class="m-logoDiv m-equalHeightLogo"><img alt="" class="m-logoDiv__img m-logoDiv__img--gob" src="/o/missmi-theme/images/logos/logoGdE_MISSM_whitewire.svg" />
+<p class="m-text-contact__minis">Inclusión, Seguridad Social y Migraciones</p>
+
+<p>Sede central del Ministerio:</p>
+
+<p class="m-text-contact__address">Calle de José Abascal, 39 - 28003 Madrid</p>
+
+<ul class="m-logos-rrss m-listBase">
+	<li><a class="m-logos-rrss__item icon-facebook icon-2x text-white" href="https://www.facebook.com/Ministerio-de-Inclusi%C3%B3n-Seguridad-Social-y-Migraciones-111628541180812" target="_blank"><span class="sr-only">twitter</span> </a></li>
+	<li><a class="m-logos-rrss__item icon-twitter icon-2x text-white" href="https://twitter.com/inclusiongob" target="_blank"><span class="sr-only">twitter</span> </a></li>
+	<li><a class="m-logos-rrss__item icon-instagram icon-2x text-white" href="https://www.instagram.com/inclusiongob/" target="_blank"><span class="sr-only">Instagram</span> </a></li>
+	<li><a class="m-logos-rrss__item icon-youtube-play icon-2x text-white" href="https://www.youtube.com/channel/UCQqBgvKPF4qmGa49GYH_TbQ" target="_blank"><span class="sr-only">youtube</span> </a> &nbsp;</li>
+	<li><a class="m-logos-rrss__item icon-linkedin-sign icon-2x  text-white" href="https://www.linkedin.com/company/ministerio-de-inclusión-seguridad-social-y-migraciones/" target="_blank"><span class="sr-only">linkedin</span> </a></li>
+</ul>
+
+<div class="row mt-5 mt-md-7">
+<div class="col-12 col-md-6 pl-2 pr-5 mb-5 mb-md-0"><a href="https://next-generation-eu.europa.eu/index_es"><img alt="Financiado por la Unión Europea - Next Generation EU" class="w-100" src="/documents/20123/2314776/NextGenerationUE_white.svg/dd8f9485-b999-8c57-2ebf-ca26dd589c8b?t=1678896087949" /> </a></div>
+
+<div class="col-12 col-md-6 px-0"><a href="https://planderecuperacion.gob.es/"><img alt="Plan de Recuperación, Transformación y Resiliencia" class="w-100" src="/documents/20123/2314776/PlanRecuperacion_white.svg/4f62060a-9f60-57eb-5862-4bf6dc80ba2b?t=1678896088145" /> </a></div>
+</div>
+</div>
+
+			
+		</div>
+
+		
+
+	
+
+
+			</div>
+			<div id="m-menuFooter" class="col-12 col-xl-8 m-colHeight">
+					<div class="m-footer-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		<div class="journal-content-article no" data-analytics-asset-id="420604" data-analytics-asset-title="Full Sitemap" data-analytics-asset-type="web-content">
+			
+
+			
+<nav id="missm-main-navigation-footer">
+		<ul class="m-main-nav__level1">
+		<li class="m-main-nav__level1__item has-children m-equalHeight">
+
+
+
+			<a class="m-main-nav__level1__link no-blank" href="/web/guest/tramites-destacados" target="">
+				Trámites Destacados
+			</a>
+
+		<ul class="m-main-nav__level2">
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/tramites/pensiones" target="">
+				Pensiones
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/tramites/altas-bajas-seguridad-social" target="">
+				Altas y bajas de la Seguridad Social
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/tramites/ayudas" target="">
+				Ayudas
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/ingreso-minimo-vital" target="">
+				Ingreso Mínimo Vital / Complemento de Ayuda a la Infancia (CAPI)
+			</a>
+
+		</li>
+		</ul>
+		</li>
+		<li class="m-main-nav__level1__item has-children m-equalHeight">
+
+
+
+			<a class="m-main-nav__level1__link no-blank" href="/web/guest/el-ministerio" target="">
+				El Ministerio
+			</a>
+
+		<ul class="m-main-nav__level2">
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/el-ministerio/quienes-somos" target="">
+				¿Quiénes somos?
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/organizacion" target="">
+				Organización administrativa
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/el-ministerio/el-ministerio-en-el-mundo" target="">
+				El Ministerio en el mundo
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/el-ministerio/atencion-al-ciudadano" target="">
+				Atención al ciudadano
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/sede-electronica" target="">
+				Sede electrónica
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/el-ministerio/empleo-publico" target="">
+				Empleo Público
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/brexit" target="">
+				Brexit. Derechos de los ciudadanos.
+			</a>
+
+		</li>
+		</ul>
+		</li>
+		<li class="m-main-nav__level1__item has-children m-equalHeight">
+
+
+
+			<a class="m-main-nav__level1__link no-blank" href="/web/inclusion/home" target="">
+				Inclusión
+			</a>
+
+		<ul class="m-main-nav__level2">
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/inclusion/quienes-somos" target="">
+				¿Quiénes somos?
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/inclusion/ingreso-minimo-vital/que-es" target="">
+				IMV
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/inclusion/que-es-el-capi" target="">
+				IMV - CAPI
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/inclusion/datos-y-estadisticas" target="">
+				Datos y Estadísticas
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/inclusion/estudios" target="">
+				Estudios e Informes
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/inclusion/laboratorio-de-politicas-de-inclusion" target="">
+				Laboratorio de Políticas de Inclusión
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/inclusion/ingreso-minimo-vital" target="">
+				Más Información
+			</a>
+
+		</li>
+		</ul>
+		</li>
+		<li class="m-main-nav__level1__item has-children m-equalHeight">
+
+
+
+			<a class="m-main-nav__level1__link no-blank" href="/web/seguridad-social/home" target="">
+				Seguridad Social y Pensiones
+			</a>
+
+		<ul class="m-main-nav__level2">
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/seguridad-social/quienes-somos" target="">
+				¿Quiénes somos?
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/seguridad-social/pensiones" target="">
+				Pensiones
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/seguridad-social/altas-y-bajas" target="">
+				Altas y bajas
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/seguridad-social/vida-laboral" target="">
+				Vida Laboral
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/seguridad-social/autonomos" target="">
+				Autónomos
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/seguridad-social/otras-prestaciones" target="">
+				Otras prestaciones
+			</a>
+
+		</li>
+		</ul>
+		</li>
+		<li class="m-main-nav__level1__item has-children m-equalHeight">
+
+
+
+			<a class="m-main-nav__level1__link no-blank" href="/web/migraciones/home" target="">
+				Migraciones
+			</a>
+
+		<ul class="m-main-nav__level2">
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/migraciones/quienes-somos" target="">
+				¿Quiénes somos?
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/migraciones/integracion" target="">
+				Integración
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/migraciones/vivir-en-espana" target="">
+				Vivir en España
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/migraciones/vivir-en-el-extranjero" target="">
+				Vivir en el extranjero
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/migraciones/sistema-de-acogida" target="">
+				Sistema de Acogida de Protección Internacional
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/migraciones/atencion-humanitaria" target="">
+				Atención Humanitaria
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/migraciones/estadisticas-opi" target="">
+				Estadísticas
+			</a>
+
+		</li>
+		</ul>
+		</li>
+		<li class="m-main-nav__level1__item has-children m-equalHeight">
+
+
+
+			<a class="m-main-nav__level1__link no-blank" href="/web/guest/comunicacion" target="">
+				Comunicación
+			</a>
+
+		<ul class="m-main-nav__level2">
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/comunicacion/noticias" target="">
+				Noticias
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/comunicacion/redes-sociales" target="">
+				Redes Sociales
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/comunicacion/videos" target="">
+				Multimedia
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/comunicacion/galeria" target="">
+				Galería
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/comunicacion/revistas" target="">
+				Revistas
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/contacto" target="">
+				Contacto para periodistas
+			</a>
+
+		</li>
+		</ul>
+		</li>
+		<li class="m-main-nav__level1__item has-children m-equalHeight">
+
+
+
+			<a class="m-main-nav__level1__link no-blank" href="/web/guest/estadisticas" target="">
+				Estadísticas
+			</a>
+
+		<ul class="m-main-nav__level2">
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/estadisticas-y-estudios/estadisticas/migraciones" target="">
+				Migraciones
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/estadisticas-y-estudios/estadisticas/empleo-y-mercado-laboral" target="">
+				Estadísticas de empleo y mercado laboral
+			</a>
+
+		</li>
+		<li class="m-main-nav__level2__item">
+
+
+
+			<a class="m-main-nav__level2__link no-blank" href="/web/guest/estadisticas-y-estudios/estadisticas/pensiones-y-prestaciones" target="">
+				Estadísticas de pensiones y prestaciones
+			</a>
+
+		</li>
+		</ul>
+		</li>
+		</ul>
+</nav>
+
+
+
+			
+		</div>
+
+		
+
+	
+
+
+					</div>
+			</div>
+		</div>
+	</div>	
+	<section class="container-fluid footer-legal-copyright">
+			<div class="container">
+				<div class="row">
+					<div class="col-12 menu-column">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_  portlet-static portlet-static-end portlet-borderless portlet-navigation " id="p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno_">
+		<span id="p_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno"></span>
+
+
+
+
+	
+
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+<section class="portlet" id="portlet_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno">
+
+
+	<div class="portlet-content">
+
+		<div class="autofit-float autofit-row portlet-header">
+			<div class="autofit-col autofit-col-expand">
+				<p role="presentation" class="portlet-title-text">Visualización del menú</p>
+			</div>
+
+			<div class="autofit-col autofit-col-end">
+				<div class="autofit-section">
+				</div>
+			</div>
+		</div>
+
+		
+			<div class=" portlet-content-container">
+				
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+				
+
+	<div id="navbar_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno">
+		<ul aria-label="Páginas del sitio web" class="nav nav-justified navbar-blank navbar-nav navbar-site" role="menubar">
+
+
+
+
+
+
+					<li class="lfr-nav-item nav-item" id="layout_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno_1374724" role="presentation">
+						<a  class="nav-link text-truncate" href='https://www.inclusion.gob.es/aviso-legal'  role="menuitem">
+							<span class="text-truncate"> Aviso legal </span>
+						</a>
+
+					</li>
+
+
+
+
+
+					<li class="lfr-nav-item nav-item" id="layout_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno_420984" role="presentation">
+						<a  class="nav-link text-truncate" href='https://www.inclusion.gob.es/accesibilidad'  role="menuitem">
+							<span class="text-truncate"> Accesibilidad </span>
+						</a>
+
+					</li>
+
+
+
+
+
+					<li class="lfr-nav-item nav-item" id="layout_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno_420985" role="presentation">
+						<a  class="nav-link text-truncate" href='https://www.inclusion.gob.es/sitemap'  role="menuitem">
+							<span class="text-truncate"> Mapa web </span>
+						</a>
+
+					</li>
+
+
+
+
+
+					<li class="lfr-nav-item nav-item" id="layout_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno_420986" role="presentation">
+						<a  class="nav-link text-truncate" href='https://www.inclusion.gob.es/privacidad'  role="menuitem">
+							<span class="text-truncate"> Privacidad </span>
+						</a>
+
+					</li>
+
+
+
+
+
+					<li class="lfr-nav-item nav-item" id="layout_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno_420987" role="presentation">
+						<a  class="nav-link text-truncate" href='https://www.inclusion.gob.es/el-ministerio/atencion-al-ciudadano'  role="menuitem">
+							<span class="text-truncate"> Atención al usuario </span>
+						</a>
+
+					</li>
+		</ul>
+	</div>
+
+<script>
+AUI().use(
+  'liferay-navigation-interaction',
+function(A) {
+(function() {
+var $ = AUI.$;var _ = AUI._;		var navigation = A.one('#navbar_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno');
+
+		Liferay.Data.NAV_INTERACTION_LIST_SELECTOR = '.navbar-site';
+		Liferay.Data.NAV_LIST_SELECTOR = '.navbar-site';
+
+		if (navigation) {
+			navigation.plug(Liferay.NavigationInteraction);
+		}
+})();
+});
+
+</script>
+			
+			
+		
+	
+	
+	
+	
+
+
+	
+	
+					
+				
+			
+		
+	
+	
+
+
+	</div>
+
+			</div>
+		
+	</div>
+</section>
+	
+
+		
+		
+
+
+
+
+
+
+
+	</div>
+
+
+
+
+
+
+					</div><!-- /.col-lg-8 -->
+				</div><!-- /.row -->
+			</div><!-- /.container -->
+	</section>
+</footer>
+
+</div>
+
+<button id="m-top-link" title="Subir al principio de la página.">Subir al principio de la página.</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+	
+		
+
+			
+
+			
+		
+	
+
+
+</script><script>
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+
+		
+
+		Liferay.currentURL = '\x2fweb\x2fmigraciones\x2fhomedocuments\x2f387478\x2f1569992\x2fanexoIII\x2epdf\x2f93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6\x3ft\x3d1718896277947';
+		Liferay.currentURLEncoded = '\x252Fweb\x252Fmigraciones\x252Fhomedocuments\x252F387478\x252F1569992\x252FanexoIII\x2epdf\x252F93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6\x253Ft\x253D1718896277947';
+
+	// ]]>
+</script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			
+				
+
+				
+
+				
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+<script type="text/javascript">
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_sxou');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_sxou_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_sxou',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d2149\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_sxou\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmigraciones\x252Fhomedocuments\x252F387478\x252F1569992\x252FanexoIII\x2epdf\x252F93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6\x253Ft\x253D1718896277947',
+			refreshURLData: {}
+		}
+	);
+
+
+	function getValueByAttribute(node, attr) {
+		return (
+			node.dataset[attr] ||
+			(node.parentElement && node.parentElement.dataset[attr])
+		);
+	}
+
+	function sendAnalyticsEvent(anchor) {
+		var fileEntryId = getValueByAttribute(anchor, 'analyticsFileEntryId');
+		var title = getValueByAttribute(anchor, 'analyticsFileEntryTitle');
+		var version = getValueByAttribute(anchor, 'analyticsFileEntryVersion');
+
+		if (fileEntryId) {
+			Analytics.send('documentDownloaded', 'Document', {
+				groupId: themeDisplay.getScopeGroupId(),
+				fileEntryId,
+				preview: !!window._com_liferay_document_library_analytics_isViewFileEntry,
+				title,
+				version,
+			});
+		}
+	}
+
+	function handleDownloadClick(event) {
+		if (window.Analytics) {
+			if (event.target.nodeName.toLowerCase() === 'a') {
+				sendAnalyticsEvent(event.target);
+			}
+			else if (
+				event.target.parentNode &&
+				event.target.parentNode.nodeName.toLowerCase() === 'a'
+			) {
+				sendAnalyticsEvent(event.target.parentNode);
+			}
+			else {
+				var target = event.target;
+				var matchTitle =
+					target.title && target.title.toLowerCase() === 'download';
+				var matchAction = target.action === 'download';
+				var matchLexiconIcon = !!target.querySelector(
+					'.lexicon-icon-download'
+				);
+				var matchLexiconClassName = target.classList.contains(
+					'lexicon-icon-download'
+				);
+				var matchParentTitle =
+					target.parentNode &&
+					target.parentNode.title &&
+					target.parentNode.title.toLowerCase() === 'download';
+				var matchParentLexiconClassName =
+					target.parentNode &&
+					target.parentNode.classList.contains('lexicon-icon-download');
+
+				if (
+					matchTitle ||
+					matchParentTitle ||
+					matchAction ||
+					matchLexiconIcon ||
+					matchLexiconClassName ||
+					matchParentLexiconClassName
+				) {
+					var selectedFiles = document.querySelectorAll(
+						'.form .custom-control-input:checked'
+					);
+
+					selectedFiles.forEach(({value}) => {
+						var selectedFile = document.querySelector(
+							'[data-analytics-file-entry-id="' + value + '"]'
+						);
+
+						sendAnalyticsEvent(selectedFile);
+					});
+				}
+			}
+		}
+	}
+
+	Liferay.once('destroyPortlet', () => {
+		document.body.removeEventListener('click', handleDownloadClick);
+	});
+
+	Liferay.once('portletReady', () => {
+		document.body.addEventListener('click', handleDownloadClick);
+	});
+
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onDestroyPortlet = function () {
+		Liferay.detach('messagePosted', onMessagePosted);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+
+	var onMessagePosted = function (event) {
+		if (window.Analytics) {
+			const eventProperties = {
+				className: event.className,
+				classPK: event.classPK,
+				commentId: event.commentId,
+				text: event.text,
+			};
+
+			const blogNode = document.querySelector(
+				'[data-analytics-asset-id="' + event.classPK + '"]'
+			);
+
+			const dmNode = document.querySelector(
+				'[data-analytics-file-entry-id="' + event.classPK + '"]'
+			);
+
+			if (blogNode) {
+				eventProperties.title = blogNode.dataset.analyticsAssetTitle;
+			}
+			else if (dmNode) {
+				eventProperties.title = dmNode.dataset.analyticsFileEntryTitle;
+			}
+
+			Analytics.send('posted', 'Comment', eventProperties);
+		}
+	};
+
+	Liferay.on('messagePosted', onMessagePosted);
+})();
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onVote = function (event) {
+		if (window.Analytics) {
+			let title = event.contentTitle;
+
+			if (!title) {
+				const dmNode = document.querySelector(
+					'[data-analytics-file-entry-id="' + event.classPK + '"]'
+				);
+
+				if (dmNode) {
+					title = dmNode.dataset.analyticsFileEntryTitle;
+				}
+			}
+
+			Analytics.send('VOTE', 'Ratings', {
+				className: event.className,
+				classPK: event.classPK,
+				ratingType: event.ratingType,
+				score: event.score,
+				title,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('ratings:vote', onVote);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('ratings:vote', onVote);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+(function() {var $ = AUI.$;var _ = AUI._;
+	var onShare = function (data) {
+		if (window.Analytics) {
+			Analytics.send('shared', 'SocialBookmarks', {
+				className: data.className,
+				classPK: data.classPK,
+				type: data.type,
+				url: data.url,
+			});
+		}
+	};
+
+	var onDestroyPortlet = function () {
+		Liferay.detach('socialBookmarks:share', onShare);
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	};
+
+	Liferay.on('socialBookmarks:share', onShare);
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();
+(function() {var $ = AUI.$;var _ = AUI._;
+	function showDialog(uri, title) {
+		Liferay.Util.openModal({
+			id: 'sharingDialog',
+			iframeBodyCssClass: 'sharing-dialog',
+			height: '475px',
+			size: 'md',
+			title: title,
+			url: uri,
+		});
+	}
+
+	var Sharing = {
+		manageCollaborators: function (classNameId, classPK) {
+			var manageCollaboratorsParameters = {
+				classNameId: classNameId,
+				classPK: classPK,
+			};
+
+			var manageCollaboratorsURL = Liferay.Util.PortletURL.createPortletURL(
+				'https://www.inclusion.gob.es/group/migraciones/~/control_panel/manage?p_p_id=com_liferay_sharing_web_portlet_ManageCollaboratorsPortlet&p_p_lifecycle=0&p_p_state=pop_up&p_p_auth=BZaMwQDW',
+				manageCollaboratorsParameters
+			);
+
+			showDialog(
+				manageCollaboratorsURL.toString(),
+				'Administrar colaboradores'
+			);
+		},
+
+		share: function (classNameId, classPK, title) {
+			var sharingParameters = {
+				classNameId: classNameId,
+				classPK: classPK,
+			};
+
+			var sharingURL = Liferay.Util.PortletURL.createPortletURL(
+				'https://www.inclusion.gob.es/group/migraciones/~/control_panel/manage?p_p_id=com_liferay_sharing_web_portlet_SharingPortlet&p_p_lifecycle=0&p_p_state=pop_up&p_p_auth=C1KR316c',
+				sharingParameters
+			);
+
+			showDialog(sharingURL.toString(), title);
+		},
+	};
+
+	Liferay.Sharing = Sharing;
+})();
+
+	if (window.svg4everybody && Liferay.Data.ICONS_INLINE_SVG) {
+		svg4everybody(
+			{
+				polyfill: true,
+				validate: function (src, svg, use) {
+					return !src || !src.startsWith('#');
+				}
+			}
+		);
+	}
+
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vwgg');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vwgg_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vwgg',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d2149\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_vwgg\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmigraciones\x252Fhomedocuments\x252F387478\x252F1569992\x252FanexoIII\x2epdf\x252F93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6\x253Ft\x253D1718896277947',
+			refreshURLData: {}
+		}
+	);
+
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_ttnm');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_ttnm_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_ttnm',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d2149\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_ttnm\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmigraciones\x252Fhomedocuments\x252F387478\x252F1569992\x252FanexoIII\x2epdf\x252F93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6\x253Ft\x253D1718896277947',
+			refreshURLData: {}
+		}
+	);
+
+(function() {var $ = AUI.$;var _ = AUI._;
+	var assetEntryId =
+		'';
+
+	if (assetEntryId) {
+		window.location.hash = assetEntryId;
+	}
+})();
+
+	
+		Liferay.Portlet.register('com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_oxre');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_oxre_',
+			portletId: 'com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_oxre',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d2149\x26p_p_id\x3dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_oxre\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmigraciones\x252Fhomedocuments\x252F387478\x252F1569992\x252FanexoIII\x2epdf\x252F93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6\x253Ft\x253D1718896277947',
+			refreshURLData: {}
+		}
+	);
+
+
+	
+		Liferay.Portlet.register('com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop_',
+			portletId: 'com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d2149\x26p_p_id\x3dcom_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchDesktop\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmigraciones\x252Fhomedocuments\x252F387478\x252F1569992\x252FanexoIII\x2epdf\x252F93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6\x253Ft\x253D1718896277947',
+			refreshURLData: {}
+		}
+	);
+
+
+	
+		Liferay.Portlet.register('com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile_',
+			portletId: 'com_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d2149\x26p_p_id\x3dcom_liferay_portal_search_web_search_bar_portlet_SearchBarPortlet_INSTANCE_mainSearchMobile\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmigraciones\x252Fhomedocuments\x252F387478\x252F1569992\x252FanexoIII\x2epdf\x252F93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6\x253Ft\x253D1718896277947',
+			refreshURLData: {}
+		}
+	);
+
+
+	
+		Liferay.Portlet.register('com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno_',
+			portletId: 'com_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d2149\x26p_p_id\x3dcom_liferay_site_navigation_menu_web_portlet_SiteNavigationMenuPortlet_INSTANCE_footer_menuFooter_ninguno\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dnull\x26p_p_col_pos\x3dnull\x26p_p_col_count\x3dnull\x26p_p_static\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fmigraciones\x252Fhomedocuments\x252F387478\x252F1569992\x252FanexoIII\x2epdf\x252F93d6ede1-4c5c-9a86-16aa-c23ef3df2cd6\x253Ft\x253D1718896277947',
+			refreshURLData: {}
+		}
+	);
+
+
+</script><script>
+Liferay.Loader.require(
+'layout-taglib@16.0.1/render_layout_structure/js/InfoItemActionHandler',
+'frontend-js-web/index',
+function(InfoItemActionHandler, frontendJsWeb) {
+try {
+AUI().use(
+  'liferay-menu',
+function(A) {
+(function() {
+Liferay.component('infoItemActionComponent', new InfoItemActionHandler.default({"executeInfoItemActionURL":"https:\/\/www.inclusion.gob.es\/c\/portal\/execute_info_item_action?p_l_mode=view&plid=2149","namespace":"","spritemap":"https:\/\/www.inclusion.gob.es\/o\/missmi-theme\/images\/clay\/icons.svg"}), { destroyOnNavigate: true, portletId: ''});
+})();
+(function() {
+Liferay.component('infoItemActionComponent', new InfoItemActionHandler.default({"executeInfoItemActionURL":"https:\/\/www.inclusion.gob.es\/c\/portal\/execute_info_item_action?p_l_mode=view&plid=2149","namespace":"","spritemap":"https:\/\/www.inclusion.gob.es\/o\/missmi-theme\/images\/clay\/icons.svg"}), { destroyOnNavigate: true, portletId: ''});
+})();
+(function() {
+var $ = AUI.$;var _ = AUI._;
+	var {delegate} = frontendJsWeb;
+
+	delegate(
+		document,
+		'focusin',
+		'.portlet',
+		function(event) {
+			event.delegateTarget.closest('.portlet').classList.add('open');
+		}
+	);
+
+	delegate(
+		document,
+		'focusout',
+		'.portlet',
+		function(event) {
+			event.delegateTarget.closest('.portlet').classList.remove('open');
+		}
+	);
+})();
+(function() {
+var $ = AUI.$;var _ = AUI._;
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 0; i < liferayNotices.length; i++) {
+		Liferay.Util.openToast(liferayNotices[i]);
+	}
+
+})();
+(function() {
+var $ = AUI.$;var _ = AUI._;
+		var {openToast} = frontendJsWeb;
+
+		AUI().use(
+			'liferay-session',
+			function() {
+				Liferay.Session = new Liferay.SessionBase(
+					{
+						autoExtend: true,
+						redirectOnExpire: false,
+						redirectUrl: 'https\x3a\x2f\x2fwww\x2einclusion\x2egob\x2ees\x2f',
+						sessionLength: 900,
+						sessionTimeoutOffset: 70,
+						warningLength: 0
+					}
+				);
+
+				
+			}
+		);
+	
+})();
+});
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://www.inclusion.gob.es/o/missmi-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=es_ES&amp;t=1748956696000" type="text/javascript"></script>
+
+
+
+
+<script>
+Liferay.Loader.require(
+'frontend-js-dropdown-support-web@2.0.14/index',
+function(DropdownProvider) {
+try {
+(function() {
+DropdownProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'frontend-js-tabs-support-web@2.0.15/index',
+function(TabsProvider) {
+try {
+(function() {
+TabsProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'frontend-js-collapse-support-web@2.0.17/index',
+function(CollapseProvider) {
+try {
+(function() {
+CollapseProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'frontend-js-alert-support-web@2.0.13/index',
+function(AlertProvider) {
+try {
+(function() {
+AlertProvider.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script>
+Liferay.Loader.require(
+'frontend-js-tooltip-support-web@4.0.22/index',
+function(TooltipSupport) {
+try {
+(function() {
+TooltipSupport.default()
+})();
+} catch (err) {
+	console.error(err);
+}
+});
+
+</script><script type="text/javascript">
+Liferay.CustomDialogs = {enabled: false};
+
+</script><script>
+
+</script>
+		<script src="https://www.inclusion.gob.es/o/missmi-theme/js/slick/slick.min.js?browserId=other&amp;minifierType=js&amp;languageId=es_ES&amp;t=1748956696000" type="text/javascript"></script>
+<script src="https://www.inclusion.gob.es/o/missmi-theme/js/video-js/video.min.js"></script>
+
+</body>
+
+</html>
+		
+	
+
