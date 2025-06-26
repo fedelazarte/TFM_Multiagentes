@@ -24,11 +24,11 @@ host = os.getenv("MILVUS_HOST", "localhost")
 port = os.getenv("MILVUS_PORT", "19530")
 
 embedding_model = HuggingFaceEmbeddings(
-    model_name="sentence-transformers/all-MiniLM-L6-v2"
+    model_name="sentence-transformers/all-mpnet-base-v2"
 )
 vectorstore = Milvus(
     embedding_function=embedding_model,
-    collection_name="tfm_embeddings",
+    collection_name="tfm_embeddings_t1",
     connection_args={"host": host, "port": port},
     text_field="content",
     auto_id=True,

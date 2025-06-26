@@ -13,21 +13,26 @@ from pathlib import Path
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 load_dotenv()
 
-# Ruta segura al JSON con enlaces válidos
-CURRENT_DIR = Path(__file__).resolve().parent
-ENLACES_PATH = CURRENT_DIR.parent / "enlaces_validos.json"
+from pathlib import Path
+
+# Esto te mostrará exactamente de dónde parte y adónde apunta
+base_dir = Path(__file__).resolve().parent.parent
+print("🔍 Base dir:", base_dir)
+
+ENLACES_PATH = base_dir / "enlaces_validos.json"
+print("🔍 ENLACES_PATH:", ENLACES_PATH)
 
 # Conexión a Milvus
 host = os.getenv("MILVUS_HOST", "localhost")
 port = os.getenv("MILVUS_PORT", "19530")
 
 embedding_model = HuggingFaceEmbeddings(
-    model_name="sentence-transformers/all-MiniLM-L6-v2"
+    model_name="sentence-transformers/all-mpnet-base-v2"
 )
 
 vectorstore = Milvus(
     embedding_function=embedding_model,
-    collection_name="tfm_embeddings",
+    collection_name="tfm_embeddings_t1",
     connection_args={"host": host, "port": port},
     text_field="content",
     auto_id=True,  # ✅ especificar explícitamente que los IDs son automáticos

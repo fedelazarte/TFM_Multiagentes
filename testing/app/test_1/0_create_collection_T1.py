@@ -10,7 +10,7 @@ from pymilvus import (
 # Conectar a Milvus
 connections.connect(host="localhost", port="19530")
 
-collection_name = "tfm_embeddings"
+collection_name = "tfm_embeddings_t1"
 
 # Borrar si ya existe
 if utility.has_collection(collection_name):
@@ -21,7 +21,7 @@ if utility.has_collection(collection_name):
 fields = [
     FieldSchema(name="id", dtype=DataType.INT64, is_primary=True, auto_id=True),
     FieldSchema(name="content", dtype=DataType.VARCHAR, max_length=1000),
-    FieldSchema(name="vector", dtype=DataType.FLOAT_VECTOR, dim=384),
+    FieldSchema(name="vector", dtype=DataType.FLOAT_VECTOR, dim=768),
 ]
 
 schema = CollectionSchema(
